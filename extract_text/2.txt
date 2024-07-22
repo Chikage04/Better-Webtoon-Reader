@@ -1,0 +1,1379 @@
+Interférométrie 4.2
+Terminez l'ancienne expérience optique.
+
+Aufildeleau 42
+Utilisez la capacité d'un Poulpe bouffi
+xénochromatique.
+
+Semnaisansombre 4.2
+Rencontrez un esprit mystérieux sur I’le d'Erinnyes.
+
+Le miracle secret (obsoléte) 4.4
+Découvrez le secret du jade du Mont Laixin.
+
+Jardins suspendus de jade 4.4
+
+Atteignez le sommet du Mont Laixin.
+
+Démons et récits extraordinaires 2.0
+Obtenez toutes les parties des « Contes de l'Allée
+Toki ».
+
+Lazoo-zanie! 23
+Utilisez !Omnifilet d'ubiquité pour capturer 1
+animal sauvage.
+
+Lazoo-zanie! 23
+
+Utilisez !Omnifilet d'ubiquité pour capturer 30
+animaux sauvages.
+
+Lazoo-zanie! 23
+
+Utilisez !Omnifilet d'ubiquité pour capturer 100 é
+animaux sauvages.
+
+Hierencore 26
+Activez 10 mélodies dans la Sérénithéiére en
+utilisant l'ensemble décoratif « Euphonie céleste ».
+
+Hierencore 26
+Activez 30 mélodies dans la Sérénithéiére en
+utilisant l'ensemble décoratif « Euphonie céleste ».
+
+
+A DAA
+utilisant l'ensemble décoratif « Euphonie céleste
+
+STAR INTRA OID RI ASAI AIS III NSIT
+
+Splendide vue 10
+Atteignez le sommet du Pic Qingyun.
+
+Finde bourrasque 1.0
+Atteignez la tour de l'Antre de Stormterror.
+
+«Les graines d'histoires apportées par le vent... »
+10
+
+Atteignez lle sans nom au nord-est de
+
+Mondstadt.
+
+Inébranlable 1.0
+Ouvrez 1 coffre qui se trouve au milieu d'une
+formation rocheuse en forme de coeur.
+
+Latraversée dutemps 10
+Traversez le tunnel du temps dans les cieux du
+Cap de la Promesse.
+
+#{M#Chouchou} {F#Chouchoute} de l'archon
+Anémo 10
+
+Asseyez-vous sur les mains de la statue de
+Archon Anémo G Mondstadt.
+
+La meilleure de toutes les 6pées 1.0
+Désactivez les trois barriéres qui protégent le
+Cimetiére d'épées.
+
+Palais secret de Guizang 1.0
+Suivez les traces des immortels qui vous
+emmeénent devant la porte du trésor.
+
+Pépiniére de cécilias 1.0
+
+Aidez les Fées 4 regagner leurs demeures et
+débloquez l'entrée d'un donjon sur le Territoire des
+Loups.
+
+Palais secret dela Formule Zhou 1.0
+
+Suivez la Fée et allumez toutes les torches pour
+débloquer l'entrée d'un donjon sur la Pente
+Wuwang.
+
+Avec un peu d'amour... 1.0
+Cuisinez un plat suspect.
+
+Tout le monde peut cuisiner... 1.0
+Cuisinez 10 plats suspects.
+
+Attention, sanglier! 1.0
+Faites-vous vaincre par un sanglier.
+
+Super permis de planer 1.0
+Planez sur une longue distance sans vous arréter.
+
+Youpi, je vole! 1.0
+Planez sans vous arréter pendant 80 s.
+
+Rapide comme ’éclair 1.0
+Sprintez sans vous arréter (ou utilisez le sprint
+alternatif) pendant 15 s.
+
+#.{M#ami}{F#amie} de tout le monde 1.0
+Rencontrez des personnes pendant votre
+venture.
+
+Superstar G Mondstadt 1.1
+Atteignez un Niv. de réputation 8 4 Mondstadt.
+
+LégendeaLiyue 11
+Atteignez un Niv. de réputation 8 4 Liyue.
+
+Idoleainazuma 20
+Atteignez un Niv. de réputation 10 4 Inazuma.
+
+TERMINE 1.0
+Terminez 10 Primes_
+
+
+TERMINE 1.0
+Terminez 20 Primes.
+
+TERMINE 1.0
+Terminez 30 Primes.
+Apprentihéros 1.0
+Terminez 10 Requétes.
+
+Apprentihéros 1.0
+Terminez 20 Requétes.
+
+Apprentihéros 1.0
+Terminez 30 Requétes.
+
+Prime perdue 1.0
+Perdez la cible d'une Prime.
+
+Un hiver difficile 1.0
+Succombez au Grand Froi
+
+Prétre, princesse et scribe 1.0
+Récup€rez le trésor de la Cité enfouie.
+
+Le retour dufils prodigue 10
+
+Suivez le chemin pris par le membre d'une
+ancienne expédition pour arriver G l'endroit dou il
+rejoignit son pays natal.
+
+Mille ans dans la glace 1.0
+
+Découvrez ce quill advint d'une ancienne
+expédition scientifique.
+
+Froides sapéques 1.0
+
+Obtenez l'arme antique forgée en argétoile.
+
+Futile expédition 1.0
+Découvrez les restes de beaucoup de
+mécanismes des ruines.
+
+Uhistoire jamais contée 1.0
+Faites-vous une nouvelle et surprenante
+connaissance Id ot vous ne vous y attendez pas.
+
+Impressionnant exploit 1.0
+Atteignez le pic des Monts Dosdragon.
+Conte d'hiver 10
+
+Découvrez un papillon cristallin Cryo sous une
+congére.
+
+#{M#Le chasseur}{F#La chasseuse} devient la
+
+proie 10
+Faites-vous vaincre par le Roi sanglier des neiges.
+
+Onsecalme! 1.0
+Vainquez le Roi sanglier des neiges quand il est
+
+enragé.
+
+Soifdegoulasch 10
+Apprenez G préparer du goulasch.
+
+Ire des dieux 1.0
+Faites-vous frapper par la foudre.
+
+Plus prés du ciel... 1.0
+Escaladez le Mandrin céleste une fois restauré.
+
+Nucléo-transmutation 1.3
+Utilisez le Transformateur paramétrique pour
+terminer une transmutation de matériau.
+
+.. Tu entends ¢a, toi aussi? 1.4
+Méme Paimon se fatigue parfois.
+
+Oyé matelot! 16
+Montez @ bord de votre barge.
+
+#{M#Maitre}{F#Maitresse} des mers 1.6
+
+Restez a bord de votre barge.
+
+Oh! Mon bateau. 1.6
+Changez de barge avec un autre joueur.
+
+... Etson nom sera la Mary Celeste 1.6
+Votre barge a été détruite...
+
+Déjavu! 16
+Naviguez continuellement a grande vitesse a bord
+de votre barge.
+
+Le marteau en bois de Yamada Go 2.0
+Déjouez plusieurs fois les illusions de Bake-danuki.
+
+Kujiraietle Temari 2.0
+Jouez au Temari avec Petit Kujirai.
+
+UneviedeTemari 2.0
+Faites en sorte qu'un autre joueur rejoigne la
+partie de Temari que vous avez créée.
+
+Jourde chance pour Paimon! 2.0
+Tirez un présage de « grande fortune » au
+Sanctuaire de Narukami.
+
+Quelle guigne... 2.0
+Tirez un présage de « grande infortune » au
+Sanctuaire de Narukami.
+
+Désillusion souterraine 2.0
+Parfois, le voyage est plus précieux que la
+destination.
+
+Shuumatsu Gaiden 20
+Vous avez G votre corps défendant rejoint le conflit
+des Fatui et du Shuumatsuban...
+
+Fin d'lwakura 2.0
+Vous avez été témoin de Ia fin du Clan lwakura.
+
+C'est I'heure dela promenade? 2.0
+Relachez Toratarou.
+
+Pas d'autre choix 2.0
+Résolvez le probléme d'Hiromi.
+
+Pourquoi 2.0
+Payez vos respects aux défunts.
+
+Ah, Ihumanité! 2.0
+Soyez témoin du destin du samourdi.
+
+Lémesanséme 20
+Trouvez les affaires de Washizu.
+
+Guide de pélerinage enile déserte 2.0
+Trouvez toutes les autels de Ile de Yashiori.
+
+Début duvoyage 20
+Trouvez Chouji & Tatarasuna et sur Ile de
+Narukami.
+
+Lodyssée du médecin itinérant 2.0
+Soyez témoin de la conclusion de I'
+Yasumoto.
+
+«Toctoc» 2.0
+Désactivez le d6me de confinement autour du
+Fourneau Mikage.
+
+Le plan de combat de Kannazuka 2.0
+Vainquez I'Hypostase Electro ressuscitée.
+
+Les raisons ducombat 2.0
+Aidez Masanori G retrouver ses esprits.
+
+Oowazamono 2.0
+Battez Masanori avec facilité.
+
+Secondefloraison 2.0
+Obtenez le cadeau de Hanayama Kaoru.
+
+Mercietdlaprochaine 20
+Obtenez la meilleure recompense du coffre de
+Takashi.
+
+Un vrai choc - littéralement 2.0
+Vous avez succombé aux dégGts de la Calamité
+Electrique...
+
+Jackpot inespéré 20
+Utilisez le canon de Kamuijima pour révéler
+l'emplacement d'un trésor.
+
+Tatara-tata! 20
+Obtenez le plan d'une certaine arme du passé.
+
+Le cycle dela vieetdelamort 20
+Ramenez la paix aux mes de 10 samourais
+défunts.
+
+«Le poisson s'est fait la malle!» 21
+Laissez un poisson s'échapper pendant quill se
+débat.
+
+« Attention ! Pécheur bourruen approche!» 211
+Effrayez un poisson en langant votre hamegon.
+
+Avos souhaits! 21
+Demandez 4 Komaki de prédire votre fortune 5
+fois tout en obtenant un résultat idéal.
+
+leconted'unesiréne 21
+Aidez Kumi 4 résoudre son probléme.
+
+Le trésor d'un pasteurdelamer 21
+Obtenez le trésor le plus précieux d'un grand
+pirate grace aux divagations des ivrognes.
+
+Long John Silver 21
+Trouvez tous les trésors enfouis de Rinzou.
+
+Alaconquéte de Watatsumi! 21
+Brisez le sceau de l'autel de l'Archon Electro.
+
+Palais del'étang 2.1
+Débloquez le « Palais de I'étang ».
+
+Léchouage du Limier 21
+Explorez Ile de Watatsumi en suivant les traces
+d'un chercheur inconnu.
+
+« Je mappelle Neko, Neko le chat.» 2.1
+Faites la connaissance de Neko, la « grande
+prétresse suppléante du Sanctuaire d'Asase ».
+
+Un félin dans les nuages 2.1
+
+Assistez @ une « bonne chose » avec Neko, la «
+grande prétresse suppléante du Sanctuaire
+d’Asase ».
+
+Uncadeaudechat 21
+Nourrissez les chatons sur Ile de Seirai et gagnez
+leur affection.
+
+C'est forcément untrésor! 21
+« Je vous I'ai bien dit que ce n’était qu'un dessin ! »
+
+Venvers delanostalgie 21
+Aidez Oda Tarou 4 prendre quatre photos sur I‘le
+de Seirai.
+
+Cecietcela... 21
+.. Peut-6tre en les reliant ?
+
+Au fond del'océan, avec Davy Jones 2.1
+Débloquez tous les mécanismes 4 bord du
+Seiraimaru.
+
+Une mer d’énigmes 2.1
+Débloquez une série de mécanismes sur Ile de
+Seirai.
+
+Le grand Pic Amakumo 21
+Débloquez le mécanisme sous le Pic Amakumo.
+
+Atravers la portede brume 22
+#Vous vous étes {M#habitué} {F#habituée} au
+temps €trange qui régne sur Ile de Tsurumi.
+
+Nihil Sub Caligine Novum 92.2
+On dirait que vous étes de retour 4 la case
+
+départ...
+
+Illusionde blanc 2.2
+Vous avez rencontré les illusions d'un passé
+lointain.
+
+«Des paysages Gpertede vue» 22
+Vous avez dit adieu a votre batelier.
+
+lecontededeuxcités 22
+Lile de Tsurumi semble avoir été construite sur les
+restes d'anciennes ruines.
+
+«Vis ma vie d'aventurier » 22
+Aidez Roald 4 terminer son journal d'aventure.
+
+Lumiére dans le brouillard 2.2
+Activez tous les rocs tonnerres des Plaines.
+d’Autake.
+
+« Euh, c'est Paimon quil’a mangé...» 2.2
+Vous avez égaré le maushiro que vous aviez
+récupéré.
+
+Jeudedevinettes 22
+D'un passé encore plus lointain 4 nos jours...
+
+Uhéritage del'Oiselle dutonnerre 2.2
+Terminez tous les défis des statues.
+
+Septlettres 22
+Vous avez déchiffré le script Ishine.
+
+MoshiriKara 2.2
+Débloquez « Moshiri Kara ».
+
+Del'autre cété de lariviére brumeuse 2.2
+Vous avez enfin atteint l'autre cété de la mer de
+brouillard...
+
+Minute papillon! 23
+Utilisez !Omnifilet d'ubiquité pour capturer 1
+papillon cristallin.
+
+Dans les mailles dufilet 23
+Utilisez !Omnifilet d'ubiquité pour capturer 1
+pinson.
+
+Combien de lieues sous les mers, déja? 2.4
+Entrez 4 Enkanomiya.
+
+Illusions solaires dansantes... Marishi? 2.4
+Découvrez le secret de la porte solaire.
+
+Lesoleiletialune 2.4
+Basculez entre Ia nuit blanche et Ia nuit sans fin
+une fois.
+
+« Approfondi et minutieux» 2.4
+Obtenez Ia reconnaissance des jibashi
+
+«Comme une anguille en hiver» 2.4
+Obtenez Ia reconnaissance des jibashi
+
+«Sans pareil dans tout Tokoyo» 2.4
+Obtenez la reconnaissance des jibashi
+
+
+« Va jouer dehors Ia prochaine fois...» 2.4
+Terminez le défi du labyrinthe de Date.
+
+« Sil'Ookami Tokoyo savait ga...» 24
+Ramenez tous les livres et...
+
+«Y a vraiment une difference?» 24
+Asseyez-vous 4 chaque endroit spécial.
+
+Que les enfants célestes dansent... 2.4
+Parlez a toutes les apparitions remanentes des
+Phaétons.
+
+Lumieére et obscurité, entre crépuscule et aube
+24
+Rendez-vous au sommet du Dainichi Mikoshi.
+
+Droit danslapomme! 2.4
+Terminez le défi de tir a l'arc.
+
+Uhéritage malheureux du Clan lwakura 2.4
+Ramenez Ia lame du maitre lwakura.
+
+Achaque serruresaclé 24
+Trouvez tous les sigils-clés.
+
+Vallée recluse 2.6
+Débloquez la « Vallée recluse ».
+
+Les chroniques miniéres du Gouffre 26
+Lisez tous les morceaux d'ouvrage liés &
+lexploitation miniére dans le Gouffre.
+
+Peuple dela valléedelavie 26
+Trouvez la graine séchée, mais ne la mangez pas
+imprudemment !
+
+CredeTenebris 26
+
+UUVTe. 10 SQHE SECTELE GOs l@s TUINes.
+
+Larumeurenneufmots 26
+Trouvez tous les messages secrets.
+
+Niddeguépes 26
+
+Trouvez le trésor des Pilleurs de trésors.
+
+Go go,G@nousle magot! 26
+Obtenez trois coffres et réussissez le jeu de chasse
+aux trésors de Chou.
+
+Analyses del'humanité 26
+Terminez toutes les enquétes écologiques et
+obtenez Ia lettre de recommandation de Khedive.
+
+« Qui d’autre que moi!» 26
+Récupé€rez les lettres des Fatui dans le Gouffre.
+
+Tous auxabris! 2.6
+Utilisez le « dispositif de démolition 4 distance de
+sécurité - modéle 2156 » pour dégager le chemin.
+
+Les tourments des ténébres... 2.6
+Vainquez la chose qui a émergé du brouillard noir.
+
+«Full-idiot Alchemist » 26
+Sauvez Clitopho.
+
+Rémanence de courage 26
+Ou repose le véritable sens de l'aventure ?
+
+Aconsommer avec modération! 2.6
+Trouvez oncle He, le mineur disparu, dans le
+Gouffre.
+
+Un champignon bien exigeant 2.6
+Terminez la mission de Xamaran dans le Gouffre.
+
+
+Obtenez toutes les offrandes laissées par les
+Millelithes et réecupérez le trésor.
+
+Touche-d-tout,bondrien 26
+Découvrez l'histoire de Tang Wuchou, le héros des
+falaises.
+
+Bien joué, Stierlitz! 26
+Aidez Yanbo 4 terminer la mission des Millelithes.
+
+Et dans les ténébres les délier.. 2.6
+
+Utilisez la lumiére florissante de la pierre de lumen
+pour illuminer pour la premiére fois les tenébres
+cristallisées d'une concrétion visqueuse.
+
+«...Ga puelasphalte. » 2.6
+Succombez une premiére fois G la boue noire...
+
+« Encore quelques biches et du vinaigre...» 2.6
+lly a plus d'un chemin secret vers la surface...
+
+LerécitdeTaliesin 26
+Obtenez le cadeau de Taliesin.
+
+Comme en pleinjour! 26
+Faites-moi briller tout ga !
+
+SageG@Sumeru 3.0
+Atteignez un Niv. de réputation 10 4 Sumeru.
+
+Pour unservicetiptop 3.0
+Offrez votre aide 4 de nombreux aranaras dans la
+forét.
+
+La porte des merveilles 3.0
+Entrez réellement dans le monde des aranaras...
+
+Entre réve et réalité 3.0
+Entrez dans la Vanarana de la réalité.
+
+Ballade en forét 3.0
+#Vous semblez avoir le potentiel pour devenir
+{m#cueilleur}{F#cueilleuse} de chant...
+
+Un voyage tranquille 3.0
+Ine faut pas manquer le paysage le long du
+chemin.
+
+Mélodie aux mille feux 3.0
+... lls transmettront cette mélodie de génération en
+génération.
+
+Une forét pleine d'histoires 3.0
+Ecoutez 5 contes de la forét auprés d’Aravinay.
+
+Une pépiniére autrefois émeraude 3.0
+Entrez dans la Vanarana d'antan.
+
+Lafindelannihilation 3.0
+Vous avez vaincu l'avatar de la Marana, puis...
+
+Bien que je puisse retourner Glaterre... 3.0
+.. Mes réves et mes désirs ne s'ajourneront pas.
+
+Eternellement d’au-deld delaforét 3.0
+Ainsi, tout est réglé !
+
+Bon appétit bien sdr:Vanarana 3.0
+Aidez les fréres d’Arapacati avec leurs suprémes
+délicatesses.
+
+Sésame, ouvre-toi 3.0
+Utilisez le code secret pour entrer dans le camp
+caché des Fatui.
+
+Entretien avec untrésorier 3.0
+Trouvez le trésor des aranaras.
+
+(or seat a festa dteoornossier ST
+
+
+Tournez chaque vamadha qui renferme un trésor.
+
+AunomdAnfortas! 3.0
+Visitez 'endroit ot les héros ont rencontré leur fin.
+
+Lappel dela villesansnom 3.0
+Calmez le mystérieux vélin.
+
+Avecleauetlevent 3.0
+Terminez « Jusqu’d la guérison de la vana ».
+
+Que je dérive tranquillement dans loubli 3.0
+Terminez « Vimana Agama ».
+
+Et les rouages du temps tournent Gnouveau 3.0
+Terminez l'affaire inachevée d'Aradasha.
+
+Attention enjouant 3.0
+Jouez avec les aranaras dans la forét.
+
+Subsistance éternelle 3.0
+Partez avec Varsha pour visiter la pépiniére
+diaranaras dans Ia vraie vie.
+
+Quand les réves fleurissent 3.0
+Faites fleurir les viparyas dans toute la pépiniére
+daranaras.
+
+Un noyer au milieu des jardins 3.0
+Interrogez Khayyam 4 propos des souvenirs
+perdus.
+
+Enquéte monstro-écologique GSumeru 3.0
+Accomplissez votre tache en protégeant ceux qui
+habitent dans les foréts.
+
+Quand le lion retrouve sa hardiesse... 3.0
+Retrouvez le courage perdu d’Arashakun.
+
+Ausommetdelasagesse 3.0
+Atteignez le point culminant de Ia Ville de Sumeru.
+
+#{F#Lexploratrice}{M#Lexplorateur} 3.0
+Utilisez les reactions de Catalyse pour découvrir
+ce qui était caché.
+
+Les jasmins murmurent, |
+réjouissent 3.0
+Terminez « Soutra d'Agnihotra ».
+
+Mistral gagnant 3.0
+Activez trois champs de vent dans Ia Forét de
+Mawtiyima.
+
+Larégledetrois 3.0
+Trouvez trois partitions musicales perdues et
+obtenez trois fruits vasomas.
+
+Uamer fruit des réves 3.0
+Utilisez le kusava pour la premiére fois.
+
+Dans Ia terre, la pluie sinfiltre 3.0
+Terminez « Varuna Gatha ».
+
+Etquegacoule! 3.0
+Utilisez votre Daguerréotype pour capturer le
+moment ou le varunastra démarre..
+
+#{F#Madame}{M#Monsieur} météo 3.0
+Contr6lez l'outil varuna pour changer le temps
+dans les Bois d'‘Apam.
+
+Quelle journée, quelle journée merveilleuse! 3.0
+Trouvez le trésor en suivant les indices dans les
+coffres.
+
+EnfantdeKara 3.0
+Flottez librement dans Ia forét.
+
+
+RABAT AAR AA ag prot td
+Suivez la béte de somme sans propriétaire jusqu'a
+ce quielle termine son voyage.
+
+Leth? eel
+
+Euréka! 3.0
+Trouvez et résolvez une série d’énigmes dans la
+Ville de Sumeru.
+
+Mélodie dela nuitetdel'aube 3.0
+.. Nous nous reverrons certainement ailleurs...
+
+Rencontres de quel type? 3.1
+Des « amis » insolites ont rejoint !@quipe
+d'archéologie...
+
+Uodyssée dans le désert 311
+Uexploration du désert vient de commencer...
+
+#Comme {M#un chercheur}{F#une
+chercheuse} du Vahumana 3.1
+La bouteille d'encre a un pouvoir redoutable.
+
+Fata Morgana 31
+Le chemin vers le tr6ne a enfin été révélé.
+
+Créer, changer, stocker et utiliser 3.1
+Méme les clés doivent étre « approuvées ».
+
+La lampe magique divine 3.
+Un petit pas vers la dissimulation de la vérité...
+
+La marche du peuple duroiDeshret 3.1
+Obtenez la permission de franchir de nombreuses
+portes.
+
+Lechemin droit 31
+Atteignez l'espace caché au sommet du Mausolée
+du roi Deshret.
+
+Lavoie delillumination 31
+
+
+NAIA AIDS INI AO AO
+
+RBIS RED re Pe D
+monuments ont été construits ou pourquoi ils ont
+été perdus dans le temps...
+
+Bis repetita! 3.1
+
+Tenez-vous G nouveau devant le roi Deshret dans
+
+#{M#incliné}{F#inclinée} au sommet du
+monde 31
+Terminez « Le dilemme d’Afratu ».
+
+Et ce bouton, ca fait quoi? 3.1
+Tant que vous ratez, ce n'est pas grave...
+
+Le soulévement des machines 31
+#Toutes les machines de Khaenri‘ah sont-elles
+aussi tranges{NON_BREAK_SPACE}?.
+
+Et le mot de passe alors? 3.1
+Ouvrez la porte mystérieuse du Rocher
+agneauvore.
+
+Lafinducouloir 3.1
+Entrez dans la chambre Ia plus secréte en bas du
+Mausolée du roi Deshret.
+
+Leroides quatreterres 3.1
+Trouvez et débloquez les secrets de toutes les
+ruines transparentes du désert.
+
+La mer de sable du régne écarlate 3.1
+Explorez les trois grands obélisques dans le désert.
+
+Gravé 31
+La beauté et I'espoir sont les plus tendres
+souvenirs des morts.
+
+Avant moi 311
+Les gens ne veulent pas mentionner son nom, ni
+se souvenir de ses paroles ou de ses actes.
+
+Lacitéillusoire 31
+Vivez votre premier mirage dans le désert.
+
+Comment ga s‘écrit, un rapport de fouille ? 3.1
+—xplorez les ruines sous le désert pour la premiére
+fois.
+
+Dérivant dans levent 3.1
+Brisez la boule d'herbes virevoltant dans le désert.
+
+«Hé6pital Break» 31
+ily aun survivant qui s'est enfui...
+
+#{M#Un archéologue bien formé}{F#Une
+archéologue bien formée} 3.1
+
+Ramenez tous les obélisques primaux du Désert
+hypostyle, du Haut-Setekh et du Bas-Setekh 4 la
+vie.
+
+Au-dela del'ombre dutemps 3.1
+Touchez toutes les fresques mystérieuses du
+désert.
+
+« Si elles avaient connu l'Inconnaissable...» 3.4
+Liloupar se libére de son contrat avec vous,
+choisissant d'affronter son destin sombre et
+lointa
+
+«Oh, quest-ce qu'une éternité de servitude... »
+3.4
+
+La djinn Liloupar, qui sommeille depuis des
+
+centaines et des milliers d'années, a conclu un
+
+pacte avec vous.
+
+Le passé dela villesansnom 3.4
+Les fresques du temple de Gurabad parlent d'une
+€@poque révolue glorieuse...
+
+Le silencieux paradis sans réves 3.4
+
+
+IARI ASAI NRT Th IRR II NAD INI IT PI
+
+long sommeil sans réve d'une divinité...
+
+«... Car elle rend a chacun selon ses ceuvres... »
+3.4
+
+Les malfaiteurs et leurs oracles auront-ils connu
+
+ce jour ot le vengeur déchaine sa juste fureur ?
+
+Auclairdelalunerougesang 3.4
+A travers ce vaste échiquier, quelles horreurs se
+
+sont jouées sous la lumiére de Ia lune rouge sang
+?
+
+Géant ver, écrasetout! 3.4
+
+Les vers des sables aveugles s'écrasent 4 travers
+le désert, et pourtant, méme de telles charges
+imprudentes donnent parfois des résultats...
+
+«Moi aussi, jeles déteste!» 3.4
+Faites-vous attaquer par un Wenut pour la
+premiére fois.
+
+Origine deladivergence 3.4
+Découvrez la vérité derriére l'ani ition de
+l@quipe de recherche érémite 4 Gurabad.
+
+Méme pas besoin de manuel... 3.4
+Redonnez G Benben son état diorigine.
+
+Labonté du chasseur 3.4
+Laissez Tadhla le faucon choisir son propre
+destin...
+
+Merci d'avoir choisi la compagnie tapis volant
+3.4
+Ce réve bleu. Je n'y crois pas, c'est merveilleux !
+
+«Olabellevie» 3.4
+
+Les palais des vers des sables ont beau étre
+complexes, la vie trouve toujours un chemin
+inattendu...
+
+Jardins et fontaines d’antan 3.4
+
+Les bassins en terrasses qui débordaient autrefois
+d'eau de source sont désormais remplis de sable
+jaune...
+
+«Lagloiredemamére» 3.4
+
+Les padisachidées fuchsia spanouissent sur un
+tréne vide, comme |'éternel sourire de leur
+maitresse...
+
+«... Montrerai aux royaumes ta honte.» 3.4
+Faites réapparaitre l'échiquier en ruine au milieu
+des sables.
+
+Car tu es sable, et tu retourneras dans le sable
+3.4
+Comme toute vie dans le désert...
+
+Quisémelevent.. 34
+« On se dirige vers un enfer météorologique. »
+
+Latarentulede Loveless 3.4
+« Je te réduirai en cambouis ! »
+
+Parvezravan Khwarrah 3.4
+Ramenez tous les obélisques primaux du Désert
+de Hadramaveth 4 Ia vie.
+
+Untrés long engagement 3.4
+Méme si les destins sont rompus, le pacte vit dans
+un sommeil....
+
+Terredelumiére 36
+Atteignez I'fden du vourukasha.
+
+$'élevant au-dessus des montagnes sombres
+36
+
+Accompagnez Mihir tout au long de son
+
+pélerinage de purification.
+
+Lacollineadesarbres 3.6
+Ramenez Rashnu 4 l'€den du vourukasha.
+
+Danslabrume 3.6
+Dissipez la brume violette imprégnant le Marais de
+lasipattravana.
+
+PaimonKonga 3.6
+Récup€rez les cing korybantes.
+
+Vyakarana des oiseaux 3.6
+Sorush obtient le chapelet & deux cornes avec
+Zurvan comme témoin...
+
+Justigo-Fulguropoing! 3.6
+Utilisez le canon des ruines pour détruire le noyau
+du Golem.
+
+« Vous qui entrez ici, abandonnez toute
+espérance.» 3.6
+Atteignez la fin des royaumes de la surface.
+
+Fabricator Général 3.6
+Activez le grand ascenseur dans I'atelier des
+ruines souterraines.
+
+Lépreuve des Haft-Vadi 3.6
+Vous détenez désormais le pouvoir des hymnes
+finaux de Ia khvarena.
+
+Une corde Gtraversl'abime 3.6
+Terminez le rituel de la traversée et frayez-vous un
+chemin G travers l'obscurité.
+
+Chameau, lion, puis enfant 3.6
+Obtenez tous les coeurs spentas dans les
+Chambres souillées.
+
+lejourdeTirgan 3.6
+En nettoyant l'abime dept
+
+
+IO AI II AIA KI SIA ED
+terres.
+
+Un voyage fantastique 3.6
+Terminez « Un artiste a la dérive ».
+
+«Mystére résolu!» 3.6
+Terminez « Analyse de monument ».
+
+Ilssontderetour 3.6
+Terminez « Flamme vacillante ».
+
+Mers d’abondance 3.6
+Tous les bassins de Eden sont désormais
+revitalisés.
+
+Méme pas peur! 3.6
+Réussissez toutes les 6preuves de Jarjar.
+
+Deepavali 3.6
+
+Terminez tous les défis de la cloche des Gmes.
+
+Danse des sept plats 3.6
+Terminez tous les défis de « Saute-champis
+percutant ».
+
+Lumiére danslaboue 3.6
+Utilisez l'énergie de la khvarena pour détruire un
+cristal gris pour la premiére fois.
+
+«Est-ce un avion ? Est-ce unoiseau?» 36
+Non, c'est Sorush qui fait son premier vol !
+
+Dans le ciel de Sary-Ozek 3.6
+Sorush est restée en vol pendant un certain.
+temps.
+
+De qui es-tu la descendante et quel est ton nom ?
+3.6
+Sorush a fait appel a I'énergie de la khvarena pour
+
+la premiere fois.
+
+Utilise la Force, Sorush 3.6
+Sorush a lancé des fruits de nirodha pour
+dissoudre 15 cristaux condensés 4 partir damrita.
+
+Gommeur dangle 4.0
+R€primez la faille bestiale en utilisant la puissance
+des cristaux.
+
+Refroidissement Geau 4.0
+Faites en sorte que le lac agité redevienne calme.
+
+Le bateaublanc 4.0
+« Il navigue sur la mer des réves... »
+
+Ueau vraiment Gla bouche! 4.0
+Aidez Henri G changer son destin.
+
+Encyclopédie de philosophie naturelle 4.0
+
+Utilisez le mur de verre et un livre indéchiffrable
+pour découvrir le lieu de rassemblement d'un.
+ancien ordre.
+
+Un message fontainois 4.0
+Ayez une discussion amicale avec Virgil.
+
+Rien qu'un limier... 4.0
+Aldez Mamére G réparer Seymour.
+
+C'est bon avec du poisson 4.0
+Goitez au merveilleux « gateau d'anniversaire »
+avec les mélusines.
+
+Bienvenue GFontaine 4.0
+Terminez un voyage sur I'aquebus.
+
+lerévediicare 4.0
+Terminez un vol avec I'aéroplane d'Antoine Roger.
+
+Lanaissance de l'horlogerie moderne 4.0
+Aidez Puca G trouver une « utilité » au minerai.
+
+Futurdumonded’eau 40
+Contemplez l'eau sous Ia surface...
+
+Esthétique delalaideur 4.0
+Et Fontaine fait ainsi deux pas de plus vers la
+beauté...
+
+Une larme sous la pluie 4.0
+Trouvez l'imposteur au milieu des Raies
+prédatrices.
+
+Théorie de l'évolution potelée 4.0
+Accompagnez le petit boudiné & mesure quill
+grandit et devient fort.
+
+Quelques-unes de mes... 4.0
+.. Choses préférées.
+
+Rendre la monnaiedesmoras 4.0
+
+Occupez-vous de ces ennuyeuses balles-balanes
+!
+
+Foienlélysée? 40
+
+Aidez 4 construire un paradis pour les boudinés.
+
+Aprés les maux... 4.0
+
+« Pour obtenir la sainte lame qui pourrait vaincre
+le roi démon, le chevalier a fait irruption dans
+lancienne ville scellée par la magie... »
+
+Etaprés ga... 4.0
+
+« Le chevalier a vaincu le roi démon, sauvant la
+princesse emprisonnée et illuminant G nouveau le
+royaume... »
+
+Sémantiqueennoir 4.0
+Trouvez un suiet... particulier des études de
+
+l'Institut de philosophie naturelle.
+
+Vingt mille lieues sous |
+Suivez le courant...
+
+smers 4.0
+
+Chant desanciens 4.0
+Ecoutez la mélodie d'un passé lointain.
+
+Niniannedulac 4.0
+Vainquez la légende locale : Ninianne du lac.
+
+Vivianne dulac 4.0
+Vainquez la légende locale : Vivianne du lac.
+
+lecredodechacun 4.0
+Chaque chose 4 sa place...
+
+Alarecherche du temps perdu 4.0
+Atteignez un Niv. de réputation 10 4 Fontaine.
+
+Juge du circuit océanique 4.0
+Vainquez la légende locale : le Juge du circuit
+océanique.
+
+Vicomte defer 4.0
+Vainquez la légende locale : le Vicomte de fer.
+
+Dobharcu, le seigneur dudissimulé 4.0
+Vainquez la légende locale : Dobharcu, le seigneur
+du dissimulé
+
+Vétéranfané 40
+Vainquez la légende locale : le Vétéran fané.
+
+Lames des gorges 4.0
+Vainquez les légendes locales : les lames des
+gorges.
+
+Jumeaux fées chevaliers 4.0
+
+Vainquez les légendes locales : les jumeaux fées
+chevaliers.
+
+«Straight Outta Coupons» 411
+Dépensez un max dans La chiffonnerie.
+
+Aux 24coupsdelacioche 4.
+Découvrez la véritable identité de Caterpillar.
+
+JeuGsommenonnulle 4.
+Terminez l'enquéte de satisfaction de la Cantine 4
+coupons.
+
+Version d'un superflu 4.1
+Ecoutez l'histoire de Clynes.
+
+Les quatre coups 4.
+Terminez l'histoire de l'Ordre fruitier et de Blanche.
+
+Au bout del'arc-en-ciel 411
+Suivez la lumiére jusqu’d sa destination finale.
+
+Montre ton minois, minerai! 4.1
+Collectez les sept mystérieuses pierres jaune-vert.
+
+La porte pas si étroite 41
+Vous avez ouvert la porte d'un certain bureau
+secret.
+
+Ce quireste delajournée 41
+Vous avez passé beaucoup de temps 4 cultiver
+lesthétique.
+
+Plus d’années G venir que passées 4.1
+Nous avons tous un avenir brillant...
+
+Romprelazonetemporelle 4.1
+Eclatez le kyste épineux et purifiez les eaux.
+
+
+VEU LES NSA LA! al
+Aidez Broglie 4 récupérer et & organiser toutes les
+données hydrologiques.
+
+Quand les machines dorment... 4.1
+Découvrez le secret caché dans l'Atelier
+horlogoide de Kuisel.
+
+Les 8 Mékas horlogoides enragés 41
+Obtenez I'héritage des meks « imparfaits ».
+
+Générateur de champ G supercalcul autonome
+al
+
+Vainquez la légende locale : le Générateur de
+champ 4 supercalcul autonome.
+
+«lls sont Spartacus!» 4.1
+Guidez Poiret et Genevieve vers la victoire dans le
+tournoi amical de pancrace.
+
+CommandeMJ 4.1
+
+Déclenchez la propriété cachée de la machine
+lors de la réparation de échantillonneur de
+capacité initiale 2.
+
+Le scaphandre et le boudifruit 4.1
+Terminez 'entrainement avancé sous l'eau.
+
+Luachra la brillante 4.1
+Vainquez la légende locale : Luachra |a brillante.
+
+Comme dans Ia Maison qui rend fou... 4.1
+Terminez l'examen final de l'Institut de recherche
+de Fontaine.
+
+Enloucedé 41
+Obtenez le rapport spécial imprimé en cachette
+par Chronie.
+
+Petits filous, chut! 4.
+(hae AST RATA RR FTE 27 Re ei Tee da
+
+
+latelier de presse de Brav
+
+Fonta final 4.1
+.. Un frisson !
+
+Fonta final 4.1
+.. Un frisson !
+
+Fonta final 4.1
+.. Un frisson !
+
+«... Quelle Nouvelle marée ?» 4.1
+Lisez toutes les revues de mode.
+
+Un hier merveilleux 41
+Le jour qui s'est 6coulé ne peut rester...
+
+#€t {M#un client satisfait} {F#une cliente
+satisfaite}! 4.1
+
+Obtenez une bandelette de chance doublement
+chanceuse.
+
+Yseut 41
+Vainquez la légende locale : Yseut.
+
+Demain, et demain, et demain! 4.2
+Apprenez G Pahsiv comment dire au revoir.
+
+Résolution de Narzissenkreuz:Labyrinthe 4.2
+« Que penses-tu de ce monde que jai dessiné
+pour toi ? »
+
+Veni, vidi, resolvi 4.2
+
+Apprenez les secrets de I'Ordo Narzissenkreuz et
+battez Jakob.
+
+Lempereur immortel du cosmos mortel 4.2
+Vainquez Narzissenkreuz.
+
+‘Au revoir.monsieuréliphas 42
+
+Vainquez Eliphas.
+
+Canonnage Goutrance 4.2
+Obtenez un trésor grace a une violente salve de
+canons navals.
+
+Linverse d'un soldat impérial 4.2
+Touchez toutes les cibles !
+
+Uhistoire est terminée, mais... 4.2
+«Ton histoire et ton aventure sont toujours en
+cours. »
+
+Je craignais que la fureur de mon vent... 4.2
+.. Ne flétrisse toutes les belles et vraies fleurs.
+
+Une fin prévisible 4.2
+Vous aidez l'Institut de recherche de Fontaine 4 se
+remettre sur les rails..?
+
+Non désenchantement dumonde 42
+Donnez des cristaux xénochromatiques
+mystérieux au timonier du Timon rubigineux 3 fois.
+
+Alavolonté du peuple 4.2
+Obtenez la promesse de Ia rose arc-en-ciel.
+
+Corbeau ou merle? 4.2
+Crest un pélican!
+
+Deianeirade Snezhevna 42
+Vainquez la légende locale : Deianeira de
+Snezhevna.
+
+Je veux que les fées existent, jy crois 4.2
+Aidez Penny 4 résoudre son trouble intérieur.
+
+Que représentent les clochettes de Lumidouce
+déja..? 42
+
+Viaiie déceni vray dane iin enin ine flair a iac
+
+
+personne na prété attention.
+
+Lespoir, unjolimot 4.2
+Découvrez une nouvelle vie dans une certaine
+ruine.
+
+Méme César ne pourrait pas acheterca 4.2
+Obtenez Ia plus grande ceuvre d'art du monde.
+
+Chassanion 4.2
+Vainquez la légende locale : Chassanion.
+
+Corrouge lalame magique 4.2
+Vainquez la légende locale : Corrouge la lame
+magique.
+
+Rocky Avildsen 4.2
+Vainquez la légende locale : Rocky Avildsen.
+
+liam 4.2
+Vainquez la légende locale : Liam.
+
+Deianeirade Snezhevna 42
+Vainquez la légende locale : Deianeira de
+Snezhevna.
+
+Undramehumain 43
+Soyez témoin de histoire de la famille de Leroy.
+
+Seigneurs de Chizhang 4.4
+Vainquez les légendes locales : les Seigneurs de
+Chizhang.
+
+Lesecretsupréme 4.4
+Trouvez le trésor de Guhua.
+
+La véritable maitrise dela lance et del'épée 4.4
+Réussissez toutes les 6preuves dans la Salle de la
+montagne céleste.
+
+lecontedelaruine 4.4
+Résolvez le mystére laissé par les ancétres.
+
+Propre comme un moraneuf 4.4
+Achevez la restauration et la reconstruction de six
+zones en ruine.
+
+Lafindelignorance 4.4
+Détruisez les 7 sources de l'effluence.
+
+Pour toucher le visage du ciel 4.4
+Utilisez I'@nergie mystique pour vous libérer
+temporairement des chaines de la terre.
+
+Un simple caillou... 4.4
+.. Doit néanmoins étre placé avec soin.
+
+Thé dans la bouilloire 4.4
+Aidez l'oncle Luo 4 réparer Ia bouilloire 4 thé du
+Village de Qiaoying.
+
+Aquandle printemps oul'automne? 4.4
+arbre ancien revient a Ia vie.
+
+« Et la viande tranchée maintenant?» 4.4
+Trouvez I'habitat de l'ancienne tortue litojade.
+
+De longues journées dans leroyaume 4.4
+Remplissez toutes les anciennes tasses de thé
+entre les montagnes et les riviéres du Vallon
