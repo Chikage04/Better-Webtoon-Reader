@@ -1,3 +1,8 @@
+Interférométrie
+Au fil de l'eau
+Semnai sans ombre
+Le miracle secret (obsolète)
+Jardins suspendus de jade
 Démons et récits extraordinaires
 La zoo-zanie !
 La zoo-zanie !
@@ -10,7 +15,7 @@ Fin de bourrasque
 « Les graines d'histoires apportées par le vent... »
 Inébranlable
 La traversée du temps
-Chouchou de l'Archon Anémo
+#{M#Chouchou}{F#Chouchoute} de l'Archon Anémo
 La meilleure de toutes les épées
 Palais secret de Guizang
 Pépinière de cécilias
@@ -21,7 +26,7 @@ Attention, sanglier !
 Super permis de planer
 Youpi, je vole !
 Rapide comme l'éclair
-L'ami de tout le monde
+#L'{M#ami}{F#amie} de tout le monde
 Superstar à Mondstadt
 Légende à Liyue
 Idole à Inazuma
@@ -41,7 +46,7 @@ Futile expédition
 L'histoire jamais contée
 Impressionnant exploit
 Conte d'hiver
-Le chasseur devient la proie
+#{M#Le chasseur}{F#La chasseuse} devient la proie
 On se calme !
 Soif de goulasch
 Ire des dieux
@@ -49,7 +54,7 @@ Plus près du ciel...
 Nucléo-transmutation
 ... Tu entends ça, toi aussi ?
 Oyé matelot !
-Maître des mers
+#{M#Maître}{F#Maîtresse} des mers
 Oh ! Mon bateau.
 ... Et son nom sera la Mary Celeste
 Déjà vu !
@@ -177,14 +182,14 @@ Un noyer au milieu des jardins
 Enquête monstro-écologique à Sumeru
 Quand le lion retrouve sa hardiesse...
 Au sommet de la sagesse
-L'explorateur
+#{F#L'exploratrice}{M#L'explorateur}
 Les jasmins murmurent, les grenades se réjouissent
 Mistral gagnant
 La règle de trois
 L'amer fruit des rêves
 Dans la terre, la pluie s'infiltre
 Et que ça coule !
-Monsieur météo
+#{F#Madame}{M#Monsieur} météo
 Quelle journée, quelle journée merveilleuse !
 Enfant de Kara
 Une réunion qui n'en finit plus
@@ -192,7 +197,7 @@ Eurêka !
 Mélodie de la nuit et de l'aube
 Rencontres de quel type ?
 L'odyssée dans le désert
-Comme un chercheur du Vahumana
+#Comme {M#un chercheur}{F#une chercheuse} du Vahumana
 Fata Morgana
 Créer, échanger, stocker et utiliser
 La lampe magique divine
@@ -200,7 +205,7 @@ La marche du peuple du roi Deshret
 Le chemin droit
 La voie de l'illumination
 Bis repetita !
-Incliné au sommet du monde
+#{M#Incliné}{F#Inclinée} au sommet du monde
 Et ce bouton, ça fait quoi ?
 Le soulèvement des machines
 Et le mot de passe alors ?
@@ -213,7 +218,7 @@ La cité illusoire
 Comment ça s'écrit, un rapport de fouille ?
 Dérivant dans le vent
 « Hôpital Break »
-Un archéologue bien formé
+#{M#Un archéologue bien formé}{F#Une archéologue bien formée}
 Au-delà de l'ombre du temps
 « Si elles avaient connu l'Inconnaissable... »
 « Oh, qu'est-ce qu'une éternité de servitude... »
@@ -321,7 +326,7 @@ Fonta final
 Fonta final
 « ... Quelle Nouvelle marée ? »
 Un hier merveilleux
-Et un client satisfait !
+#Et {M#un client satisfait}{F#une cliente satisfaite} !
 Yseut
 Demain, et demain, et demain !
 Résolution de Narzissenkreuz : Labyrinthe
@@ -336,6 +341,7 @@ Une fin prévisible
 Non désenchantement du monde
 À la volonté du peuple
 Corbeau ou merle ?
+Deianeira de Snezhevna
 Je veux que les fées existent, j'y crois
 Que représentent les clochettes de Lumidouce déjà...?
 L'espoir, un joli mot
@@ -379,10 +385,10 @@ Le miracle secret
 Cineas
 À fond les torrents
 « I ask of thee... Art thou mankind ? »
-L'ami des livres
+#{F#L'amie}{M#L'ami} des livres
 « L'étranger volant »
 Pas si bien cachés que ça...
-Le devoir d'un maître
+#Le devoir {F#d'une maîtresse}{M#d'un maître}
 La dixième muse
 Odyssée sur le mur
 « Dites aux citoyens... »
@@ -447,7 +453,7 @@ Pratiquement inoffensif...
 Lumière débordante
 « Han tire le premier... »
 L'opportuniste
-« Viens voir papa »
+#« Viens voir {F#maman}{M#papa} »
 La rencontre du vent et de la rosée
 Jamais deux sans trois ?
 Coucouche panier !
@@ -491,7 +497,7 @@ C'est plus grand à l'intérieur !
 Restauration des monuments historiques
 Un long adieu
 Blob en sucre
-Monté au ciel
+#{M#Monté}{F#Montée} au ciel
 Chant des lys
 On se reverra...
 Déraillage
@@ -502,7 +508,7 @@ Le chef et le pêcheur
 Aux immortels les affaires des dieux...
 Toujours dans mon cœur
 Encore un étage
-La chance du débutant
+#La chance {M#du débutant}{F#de la débutante}
 Mes plus plates excuses
 Ça se tient...
 « Cher papa... »

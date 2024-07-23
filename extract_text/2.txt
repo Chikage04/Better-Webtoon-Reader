@@ -1,1379 +1,5563 @@
-Interférométrie 4.2
+Interférométrie 
+
 Terminez l'ancienne expérience optique.
 
-Aufildeleau 42
-Utilisez la capacité d'un Poulpe bouffi
-xénochromatique.
+1
 
-Semnaisansombre 4.2
-Rencontrez un esprit mystérieux sur I’le d'Erinnyes.
+primogem
 
-Le miracle secret (obsoléte) 4.4
+Au fil de l'eau 
+
+Utilisez la capacité d'un Poulpe bouffi xénochromatique.
+
+1
+
+primogem
+
+Semnai sans ombre 
+
+Rencontrez un esprit mystérieux sur l'Île d'Erinnyes.
+
+1
+
+primogem
+
+Le miracle secret (obsolète) 
+
 Découvrez le secret du jade du Mont Laixin.
 
-Jardins suspendus de jade 4.4
+1
+
+primogem
+
+Jardins suspendus de jade 
 
 Atteignez le sommet du Mont Laixin.
 
-Démons et récits extraordinaires 2.0
-Obtenez toutes les parties des « Contes de l'Allée
-Toki ».
+1
 
-Lazoo-zanie! 23
-Utilisez !Omnifilet d'ubiquité pour capturer 1
-animal sauvage.
+primogem
 
-Lazoo-zanie! 23
+Démons et récits extraordinaires 
 
-Utilisez !Omnifilet d'ubiquité pour capturer 30
-animaux sauvages.
+Obtenez toutes les parties des « Contes de l'Allée Toki ».
 
-Lazoo-zanie! 23
+5
 
-Utilisez !Omnifilet d'ubiquité pour capturer 100 é
-animaux sauvages.
+primogem
 
-Hierencore 26
-Activez 10 mélodies dans la Sérénithéiére en
-utilisant l'ensemble décoratif « Euphonie céleste ».
+La zoo-zanie ! 
 
-Hierencore 26
-Activez 30 mélodies dans la Sérénithéiére en
-utilisant l'ensemble décoratif « Euphonie céleste ».
+Utilisez l'Omnifilet d'ubiquité pour capturer 1 animal sauvage.
 
+5
 
-A DAA
-utilisant l'ensemble décoratif « Euphonie céleste
+primogem
 
-STAR INTRA OID RI ASAI AIS III NSIT
+La zoo-zanie ! 
 
-Splendide vue 10
-Atteignez le sommet du Pic Qingyun.
+Utilisez l'Omnifilet d'ubiquité pour capturer 30 animaux sauvages.
 
-Finde bourrasque 1.0
-Atteignez la tour de l'Antre de Stormterror.
-
-«Les graines d'histoires apportées par le vent... »
 10
 
-Atteignez lle sans nom au nord-est de
+primogem
 
-Mondstadt.
+La zoo-zanie ! 
 
-Inébranlable 1.0
-Ouvrez 1 coffre qui se trouve au milieu d'une
-formation rocheuse en forme de coeur.
+Utilisez l'Omnifilet d'ubiquité pour capturer 100 animaux sauvages.
 
-Latraversée dutemps 10
-Traversez le tunnel du temps dans les cieux du
-Cap de la Promesse.
+20
 
-#{M#Chouchou} {F#Chouchoute} de l'archon
-Anémo 10
+primogem
 
-Asseyez-vous sur les mains de la statue de
-Archon Anémo G Mondstadt.
+Hier encore 
 
-La meilleure de toutes les 6pées 1.0
-Désactivez les trois barriéres qui protégent le
-Cimetiére d'épées.
+Activez 10 mélodies dans la Sérénithéière en utilisant l'ensemble décoratif « Euphonie céleste ».
 
-Palais secret de Guizang 1.0
-Suivez les traces des immortels qui vous
-emmeénent devant la porte du trésor.
+5
 
-Pépiniére de cécilias 1.0
+primogem
 
-Aidez les Fées 4 regagner leurs demeures et
-débloquez l'entrée d'un donjon sur le Territoire des
-Loups.
+Hier encore 
 
-Palais secret dela Formule Zhou 1.0
+Activez 30 mélodies dans la Sérénithéière en utilisant l'ensemble décoratif « Euphonie céleste ».
 
-Suivez la Fée et allumez toutes les torches pour
-débloquer l'entrée d'un donjon sur la Pente
-Wuwang.
+10
 
-Avec un peu d'amour... 1.0
+primogem
+
+Hier encore 
+
+Activez 60 mélodies dans la Sérénithéière en utilisant l'ensemble décoratif « Euphonie céleste ».
+
+20
+
+primogem
+
+Splendide vue 
+
+Atteignez le sommet du Pic Qingyun.
+
+5
+
+primogem
+
+Fin de bourrasque 
+
+Atteignez la tour de l'Antre de Stormterror.
+
+5
+
+primogem
+
+« Les graines d'histoires apportées par le vent... » 
+
+Atteignez l'île sans nom au nord-est de Mondstadt.
+
+5
+
+primogem
+
+Inébranlable 
+
+Ouvrez 1 coffre qui se trouve au milieu d'une formation rocheuse en forme de cœur.
+
+5
+
+primogem
+
+La traversée du temps 
+
+Traversez le tunnel du temps dans les cieux du Cap de la Promesse.
+
+5
+
+primogem
+
+#{M#Chouchou}{F#Chouchoute} de l'Archon Anémo 
+
+Asseyez-vous sur les mains de la statue de l'Archon Anémo à Mondstadt.
+
+5
+
+primogem
+
+La meilleure de toutes les épées 
+
+Désactivez les trois barrières qui protègent le Cimetière d'épées.
+
+5
+
+primogem
+
+Palais secret de Guizang 
+
+Suivez les traces des immortels qui vous emmènent devant la porte du trésor.
+
+5
+
+primogem
+
+Pépinière de cécilias 
+
+Aidez les Fées à regagner leurs demeures et débloquez l'entrée d'un donjon sur le Territoire des Loups.
+
+5
+
+primogem
+
+Palais secret de la Formule Zhou 
+
+Suivez la Fée et allumez toutes les torches pour débloquer l'entrée d'un donjon sur la Pente Wuwang.
+
+5
+
+primogem
+
+Avec un peu d'amour... 
+
 Cuisinez un plat suspect.
 
-Tout le monde peut cuisiner... 1.0
+5
+
+primogem
+
+Tout le monde peut cuisiner... 
+
 Cuisinez 10 plats suspects.
 
-Attention, sanglier! 1.0
+5
+
+primogem
+
+Attention, sanglier ! 
+
 Faites-vous vaincre par un sanglier.
 
-Super permis de planer 1.0
-Planez sur une longue distance sans vous arréter.
+5
 
-Youpi, je vole! 1.0
-Planez sans vous arréter pendant 80 s.
+primogem
 
-Rapide comme ’éclair 1.0
-Sprintez sans vous arréter (ou utilisez le sprint
-alternatif) pendant 15 s.
+Super permis de planer 
 
-#.{M#ami}{F#amie} de tout le monde 1.0
-Rencontrez des personnes pendant votre
-venture.
+Planez sur une longue distance sans vous arrêter.
 
-Superstar G Mondstadt 1.1
-Atteignez un Niv. de réputation 8 4 Mondstadt.
+10
 
-LégendeaLiyue 11
-Atteignez un Niv. de réputation 8 4 Liyue.
+primogem
 
-Idoleainazuma 20
-Atteignez un Niv. de réputation 10 4 Inazuma.
+Youpi, je vole ! 
 
-TERMINE 1.0
-Terminez 10 Primes_
+Planez sans vous arrêter pendant 80 s.
 
+10
 
-TERMINE 1.0
+primogem
+
+Rapide comme l'éclair 
+
+Sprintez sans vous arrêter (ou utilisez le sprint alternatif) pendant 15 s.
+
+10
+
+primogem
+
+#L'{M#ami}{F#amie} de tout le monde 
+
+Rencontrez des personnes pendant votre aventure.
+
+10
+
+primogem
+
+Superstar à Mondstadt 
+
+Atteignez un Niv. de réputation 8 à Mondstadt.
+
+20
+
+primogem
+
+Légende à Liyue 
+
+Atteignez un Niv. de réputation 8 à Liyue.
+
+20
+
+primogem
+
+Idole à Inazuma 
+
+Atteignez un Niv. de réputation 10 à Inazuma.
+
+20
+
+primogem
+
+TERMINÉ 
+
+Terminez 10 Primes.
+
+5
+
+primogem
+
+TERMINÉ 
+
 Terminez 20 Primes.
 
-TERMINE 1.0
+10
+
+primogem
+
+TERMINÉ 
+
 Terminez 30 Primes.
-Apprentihéros 1.0
-Terminez 10 Requétes.
 
-Apprentihéros 1.0
-Terminez 20 Requétes.
+20
 
-Apprentihéros 1.0
-Terminez 30 Requétes.
+primogem
 
-Prime perdue 1.0
+Apprenti héros 
+
+Terminez 10 Requêtes.
+
+5
+
+primogem
+
+Apprenti héros 
+
+Terminez 20 Requêtes.
+
+10
+
+primogem
+
+Apprenti héros 
+
+Terminez 30 Requêtes.
+
+20
+
+primogem
+
+Prime perdue 
+
 Perdez la cible d'une Prime.
 
-Un hiver difficile 1.0
-Succombez au Grand Froi
+5
 
-Prétre, princesse et scribe 1.0
-Récup€rez le trésor de la Cité enfouie.
+primogem
 
-Le retour dufils prodigue 10
+Un hiver difficile 
 
-Suivez le chemin pris par le membre d'une
-ancienne expédition pour arriver G l'endroit dou il
-rejoignit son pays natal.
+Succombez au Grand Froid...
 
-Mille ans dans la glace 1.0
+5
 
-Découvrez ce quill advint d'une ancienne
-expédition scientifique.
+primogem
 
-Froides sapéques 1.0
+Prêtre, princesse et scribe 
+
+Récupérez le trésor de la Cité enfouie.
+
+5
+
+primogem
+
+Le retour du fils prodigue 
+
+Suivez le chemin pris par le membre d'une ancienne expédition pour arriver à l'endroit d'où il rejoignit son pays natal.
+
+5
+
+primogem
+
+Mille ans dans la glace 
+
+Découvrez ce qu'il advint d'une ancienne expédition scientifique.
+
+5
+
+primogem
+
+Froides sapèques 
 
 Obtenez l'arme antique forgée en argétoile.
 
-Futile expédition 1.0
-Découvrez les restes de beaucoup de
-mécanismes des ruines.
+5
 
-Uhistoire jamais contée 1.0
-Faites-vous une nouvelle et surprenante
-connaissance Id ot vous ne vous y attendez pas.
+primogem
 
-Impressionnant exploit 1.0
+Futile expédition 
+
+Découvrez les restes de beaucoup de mécanismes des ruines.
+
+5
+
+primogem
+
+L'histoire jamais contée 
+
+Faites-vous une nouvelle et surprenante connaissance là où vous ne vous y attendez pas.
+
+5
+
+primogem
+
+Impressionnant exploit 
+
 Atteignez le pic des Monts Dosdragon.
-Conte d'hiver 10
 
-Découvrez un papillon cristallin Cryo sous une
-congére.
+5
 
-#{M#Le chasseur}{F#La chasseuse} devient la
+primogem
 
-proie 10
+Conte d'hiver 
+
+Découvrez un papillon cristallin Cryo sous une congère.
+
+5
+
+primogem
+
+#{M#Le chasseur}{F#La chasseuse} devient la proie 
+
 Faites-vous vaincre par le Roi sanglier des neiges.
 
-Onsecalme! 1.0
-Vainquez le Roi sanglier des neiges quand il est
+5
 
-enragé.
+primogem
 
-Soifdegoulasch 10
-Apprenez G préparer du goulasch.
+On se calme ! 
 
-Ire des dieux 1.0
+Vainquez le Roi sanglier des neiges quand il est enragé.
+
+5
+
+primogem
+
+Soif de goulasch 
+
+Apprenez à préparer du goulasch.
+
+5
+
+primogem
+
+Ire des dieux 
+
 Faites-vous frapper par la foudre.
 
-Plus prés du ciel... 1.0
+5
+
+primogem
+
+Plus près du ciel... 
+
 Escaladez le Mandrin céleste une fois restauré.
 
-Nucléo-transmutation 1.3
-Utilisez le Transformateur paramétrique pour
-terminer une transmutation de matériau.
+5
 
-.. Tu entends ¢a, toi aussi? 1.4
-Méme Paimon se fatigue parfois.
+primogem
 
-Oyé matelot! 16
-Montez @ bord de votre barge.
+Nucléo-transmutation 
 
-#{M#Maitre}{F#Maitresse} des mers 1.6
+Utilisez le Transformateur paramétrique pour terminer une transmutation de matériau.
 
-Restez a bord de votre barge.
+5
 
-Oh! Mon bateau. 1.6
+primogem
+
+... Tu entends ça, toi aussi ? 
+
+Même Paimon se fatigue parfois.
+
+5
+
+primogem
+
+Oyé matelot ! 
+
+Montez à bord de votre barge.
+
+5
+
+primogem
+
+#{M#Maître}{F#Maîtresse} des mers 
+
+Restez à bord de votre barge.
+
+5
+
+primogem
+
+Oh ! Mon bateau. 
+
 Changez de barge avec un autre joueur.
 
-... Etson nom sera la Mary Celeste 1.6
+5
+
+primogem
+
+... Et son nom sera la Mary Celeste 
+
 Votre barge a été détruite...
 
-Déjavu! 16
-Naviguez continuellement a grande vitesse a bord
-de votre barge.
+5
 
-Le marteau en bois de Yamada Go 2.0
+primogem
+
+Déjà vu ! 
+
+Naviguez continuellement à grande vitesse à bord de votre barge.
+
+5
+
+primogem
+
+Le marteau en bois de Yamada Go 
+
 Déjouez plusieurs fois les illusions de Bake-danuki.
 
-Kujiraietle Temari 2.0
+5
+
+primogem
+
+Kujirai et le Temari 
+
 Jouez au Temari avec Petit Kujirai.
 
-UneviedeTemari 2.0
-Faites en sorte qu'un autre joueur rejoigne la
-partie de Temari que vous avez créée.
+5
 
-Jourde chance pour Paimon! 2.0
-Tirez un présage de « grande fortune » au
-Sanctuaire de Narukami.
+primogem
 
-Quelle guigne... 2.0
-Tirez un présage de « grande infortune » au
-Sanctuaire de Narukami.
+Une vie de Temari 
 
-Désillusion souterraine 2.0
-Parfois, le voyage est plus précieux que la
-destination.
+Faites en sorte qu'un autre joueur rejoigne la partie de Temari que vous avez créée.
 
-Shuumatsu Gaiden 20
-Vous avez G votre corps défendant rejoint le conflit
-des Fatui et du Shuumatsuban...
+5
 
-Fin d'lwakura 2.0
-Vous avez été témoin de Ia fin du Clan lwakura.
+primogem
 
-C'est I'heure dela promenade? 2.0
-Relachez Toratarou.
+Jour de chance pour Paimon ! 
 
-Pas d'autre choix 2.0
-Résolvez le probléme d'Hiromi.
+Tirez un présage de « grande fortune » au Sanctuaire de Narukami.
 
-Pourquoi 2.0
+5
+
+primogem
+
+Quelle guigne... 
+
+Tirez un présage de « grande infortune » au Sanctuaire de Narukami.
+
+5
+
+primogem
+
+Désillusion souterraine 
+
+Parfois, le voyage est plus précieux que la destination.
+
+5
+
+primogem
+
+Shuumatsu Gaiden 
+
+Vous avez à votre corps défendant rejoint le conflit des Fatui et du Shuumatsuban...
+
+5
+
+primogem
+
+Fin d'Iwakura 
+
+Vous avez été témoin de la fin du Clan Iwakura.
+
+5
+
+primogem
+
+C'est l'heure de la promenade ? 
+
+Relâchez Toratarou.
+
+5
+
+primogem
+
+Pas d'autre choix 
+
+Résolvez le problème d'Hiromi.
+
+5
+
+primogem
+
+Pourquoi vieillir 
+
 Payez vos respects aux défunts.
 
-Ah, Ihumanité! 2.0
-Soyez témoin du destin du samourdi.
+5
 
-Lémesanséme 20
+primogem
+
+Ah, l'humanité ! 
+
+Soyez témoin du destin du samouraï.
+
+5
+
+primogem
+
+L'âme sans âme 
+
 Trouvez les affaires de Washizu.
 
-Guide de pélerinage enile déserte 2.0
-Trouvez toutes les autels de Ile de Yashiori.
+5
 
-Début duvoyage 20
-Trouvez Chouji & Tatarasuna et sur Ile de
-Narukami.
+primogem
 
-Lodyssée du médecin itinérant 2.0
-Soyez témoin de la conclusion de I'
-Yasumoto.
+Guide de pèlerinage en île déserte 
 
-«Toctoc» 2.0
-Désactivez le d6me de confinement autour du
-Fourneau Mikage.
+Trouvez toutes les autels de l'Île de Yashiori.
 
-Le plan de combat de Kannazuka 2.0
-Vainquez I'Hypostase Electro ressuscitée.
+5
 
-Les raisons ducombat 2.0
-Aidez Masanori G retrouver ses esprits.
+primogem
 
-Oowazamono 2.0
+Début du voyage 
+
+Trouvez Chouji à Tatarasuna et sur l'Île de Narukami.
+
+5
+
+primogem
+
+L'odyssée du médecin itinérant 
+
+Soyez témoin de la conclusion de l'histoire de Yasumoto.
+
+5
+
+primogem
+
+« Toc toc » 
+
+Désactivez le dôme de confinement autour du Fourneau Mikage.
+
+5
+
+primogem
+
+Le plan de combat de Kannazuka 
+
+Vainquez l'Hypostase Électro ressuscitée.
+
+5
+
+primogem
+
+Les raisons du combat 
+
+Aidez Masanori à retrouver ses esprits.
+
+5
+
+primogem
+
+Oowazamono 
+
 Battez Masanori avec facilité.
 
-Secondefloraison 2.0
+5
+
+primogem
+
+Seconde floraison 
+
 Obtenez le cadeau de Hanayama Kaoru.
 
-Mercietdlaprochaine 20
-Obtenez la meilleure recompense du coffre de
-Takashi.
+5
 
-Un vrai choc - littéralement 2.0
-Vous avez succombé aux dégGts de la Calamité
-Electrique...
+primogem
 
-Jackpot inespéré 20
-Utilisez le canon de Kamuijima pour révéler
-l'emplacement d'un trésor.
+Merci et à la prochaine 
 
-Tatara-tata! 20
+Obtenez la meilleure récompense du coffre de Takashi.
+
+5
+
+primogem
+
+Un vrai choc - littéralement 
+
+Vous avez succombé aux dégâts de la Calamité Électrique...
+
+5
+
+primogem
+
+Jackpot inespéré 
+
+Utilisez le canon de Kamuijima pour révéler l'emplacement d'un trésor.
+
+5
+
+primogem
+
+Tatara-tata ! 
+
 Obtenez le plan d'une certaine arme du passé.
 
-Le cycle dela vieetdelamort 20
-Ramenez la paix aux mes de 10 samourais
-défunts.
+5
 
-«Le poisson s'est fait la malle!» 21
-Laissez un poisson s'échapper pendant quill se
-débat.
+primogem
 
-« Attention ! Pécheur bourruen approche!» 211
-Effrayez un poisson en langant votre hamegon.
+Le cycle de la vie et de la mort 
 
-Avos souhaits! 21
-Demandez 4 Komaki de prédire votre fortune 5
-fois tout en obtenant un résultat idéal.
+Ramenez la paix aux âmes de 10 samouraïs défunts.
 
-leconted'unesiréne 21
-Aidez Kumi 4 résoudre son probléme.
+5
 
-Le trésor d'un pasteurdelamer 21
-Obtenez le trésor le plus précieux d'un grand
-pirate grace aux divagations des ivrognes.
+primogem
 
-Long John Silver 21
+« Le poisson s'est fait la malle ! » 
+
+Laissez un poisson s'échapper pendant qu'il se débat.
+
+5
+
+primogem
+
+« Attention ! Pêcheur bourru en approche ! » 
+
+Effrayez un poisson en lançant votre hameçon.
+
+5
+
+primogem
+
+À vos souhaits ! 
+
+Demandez à Komaki de prédire votre fortune 5 fois tout en obtenant un résultat idéal.
+
+5
+
+primogem
+
+Le conte d'une sirène 
+
+Aidez Kumi à résoudre son problème.
+
+5
+
+primogem
+
+Le trésor d'un pasteur de la mer 
+
+Obtenez le trésor le plus précieux d'un grand pirate grâce aux divagations des ivrognes.
+
+5
+
+primogem
+
+Long John Silver 
+
 Trouvez tous les trésors enfouis de Rinzou.
 
-Alaconquéte de Watatsumi! 21
-Brisez le sceau de l'autel de l'Archon Electro.
+5
 
-Palais del'étang 2.1
-Débloquez le « Palais de I'étang ».
+primogem
 
-Léchouage du Limier 21
-Explorez Ile de Watatsumi en suivant les traces
-d'un chercheur inconnu.
+À la conquête de Watatsumi ! 
 
-« Je mappelle Neko, Neko le chat.» 2.1
-Faites la connaissance de Neko, la « grande
-prétresse suppléante du Sanctuaire d'Asase ».
+Brisez le sceau de l'autel de l'Archon Électro.
 
-Un félin dans les nuages 2.1
+5
 
-Assistez @ une « bonne chose » avec Neko, la «
-grande prétresse suppléante du Sanctuaire
-d’Asase ».
+primogem
 
-Uncadeaudechat 21
-Nourrissez les chatons sur Ile de Seirai et gagnez
-leur affection.
+Palais de l'étang 
 
-C'est forcément untrésor! 21
-« Je vous I'ai bien dit que ce n’était qu'un dessin ! »
+Débloquez le « Palais de l'étang ».
 
-Venvers delanostalgie 21
-Aidez Oda Tarou 4 prendre quatre photos sur I‘le
-de Seirai.
+5
 
-Cecietcela... 21
-.. Peut-6tre en les reliant ?
+primogem
 
-Au fond del'océan, avec Davy Jones 2.1
-Débloquez tous les mécanismes 4 bord du
-Seiraimaru.
+L'échouage du Limier 
 
-Une mer d’énigmes 2.1
-Débloquez une série de mécanismes sur Ile de
-Seirai.
+Explorez l'Île de Watatsumi en suivant les traces d'un chercheur inconnu.
 
-Le grand Pic Amakumo 21
+5
+
+primogem
+
+« Je m'appelle Neko, Neko le chat. » 
+
+Faites la connaissance de Neko, la « grande prêtresse suppléante du Sanctuaire d'Asase ».
+
+5
+
+primogem
+
+Un félin dans les nuages 
+
+Assistez à une « bonne chose » avec Neko, la « grande prêtresse suppléante du Sanctuaire d'Asase ».
+
+5
+
+primogem
+
+Un cadeau de chat 
+
+Nourrissez les chatons sur l'Île de Seirai et gagnez leur affection.
+
+5
+
+primogem
+
+C'est forcément un trésor ! 
+
+« Je vous l'ai bien dit que ce n'était qu'un dessin ! »
+
+5
+
+primogem
+
+L'envers de la nostalgie 
+
+Aidez Oda Tarou à prendre quatre photos sur l'Île de Seirai.
+
+5
+
+primogem
+
+Ceci et cela... 
+
+... Peut-être en les reliant ?
+
+5
+
+primogem
+
+Au fond de l'océan, avec Davy Jones 
+
+Débloquez tous les mécanismes à bord du Seiraimaru.
+
+5
+
+primogem
+
+Une mer d'énigmes 
+
+Débloquez une série de mécanismes sur l'Île de Seirai.
+
+5
+
+primogem
+
+Le grand Pic Amakumo 
+
 Débloquez le mécanisme sous le Pic Amakumo.
 
-Atravers la portede brume 22
-#Vous vous étes {M#habitué} {F#habituée} au
-temps €trange qui régne sur Ile de Tsurumi.
+5
 
-Nihil Sub Caligine Novum 92.2
-On dirait que vous étes de retour 4 la case
+primogem
 
-départ...
+À travers la porte de brume 
 
-Illusionde blanc 2.2
-Vous avez rencontré les illusions d'un passé
-lointain.
+#Vous vous êtes {M#habitué}{F#habituée} au temps étrange qui règne sur l'Île de Tsurumi.
 
-«Des paysages Gpertede vue» 22
-Vous avez dit adieu a votre batelier.
+5
 
-lecontededeuxcités 22
-Lile de Tsurumi semble avoir été construite sur les
-restes d'anciennes ruines.
+primogem
 
-«Vis ma vie d'aventurier » 22
-Aidez Roald 4 terminer son journal d'aventure.
+Nihil Sub Caligine Novum 
 
-Lumiére dans le brouillard 2.2
-Activez tous les rocs tonnerres des Plaines.
-d’Autake.
+On dirait que vous êtes de retour à la case départ...
 
-« Euh, c'est Paimon quil’a mangé...» 2.2
-Vous avez égaré le maushiro que vous aviez
-récupéré.
+5
 
-Jeudedevinettes 22
-D'un passé encore plus lointain 4 nos jours...
+primogem
 
-Uhéritage del'Oiselle dutonnerre 2.2
+Illusion de blanc 
+
+Vous avez rencontré les illusions d'un passé lointain.
+
+5
+
+primogem
+
+« Des paysages à perte de vue » 
+
+Vous avez dit adieu à votre batelier.
+
+5
+
+primogem
+
+Le conte de deux cités 
+
+L'Île de Tsurumi semble avoir été construite sur les restes d'anciennes ruines.
+
+5
+
+primogem
+
+« Vis ma vie d'aventurier » 
+
+Aidez Roald à terminer son journal d'aventure.
+
+5
+
+primogem
+
+Lumière dans le brouillard 
+
+Activez tous les rocs tonnerres des Plaines d'Autake.
+
+5
+
+primogem
+
+« Euh, c'est Paimon qui l'a mangé... » 
+
+Vous avez égaré le maushiro que vous aviez récupéré.
+
+5
+
+primogem
+
+Jeu de devinettes 
+
+D'un passé encore plus lointain à nos jours...
+
+5
+
+primogem
+
+L'héritage de l'Oiselle du tonnerre 
+
 Terminez tous les défis des statues.
 
-Septlettres 22
+5
+
+primogem
+
+Sept lettres 
+
 Vous avez déchiffré le script Ishine.
 
-MoshiriKara 2.2
+5
+
+primogem
+
+Moshiri Kara 
+
 Débloquez « Moshiri Kara ».
 
-Del'autre cété de lariviére brumeuse 2.2
-Vous avez enfin atteint l'autre cété de la mer de
-brouillard...
+5
 
-Minute papillon! 23
-Utilisez !Omnifilet d'ubiquité pour capturer 1
-papillon cristallin.
+primogem
 
-Dans les mailles dufilet 23
-Utilisez !Omnifilet d'ubiquité pour capturer 1
-pinson.
+De l'autre côté de la rivière brumeuse 
 
-Combien de lieues sous les mers, déja? 2.4
-Entrez 4 Enkanomiya.
+Vous avez enfin atteint l'autre côté de la mer de brouillard...
 
-Illusions solaires dansantes... Marishi? 2.4
+5
+
+primogem
+
+Minute papillon ! 
+
+Utilisez l'Omnifilet d'ubiquité pour capturer 1 papillon cristallin.
+
+5
+
+primogem
+
+Dans les mailles du filet 
+
+Utilisez l'Omnifilet d'ubiquité pour capturer 1 pinson.
+
+5
+
+primogem
+
+Combien de lieues sous les mers, déjà ? 
+
+Entrez à Enkanomiya.
+
+5
+
+primogem
+
+Illusions solaires dansantes... Marishi ? 
+
 Découvrez le secret de la porte solaire.
 
-Lesoleiletialune 2.4
-Basculez entre Ia nuit blanche et Ia nuit sans fin
-une fois.
+5
 
-« Approfondi et minutieux» 2.4
-Obtenez Ia reconnaissance des jibashi
+primogem
 
-«Comme une anguille en hiver» 2.4
-Obtenez Ia reconnaissance des jibashi
+Le soleil et la lune 
 
-«Sans pareil dans tout Tokoyo» 2.4
-Obtenez la reconnaissance des jibashi
+Basculez entre la nuit blanche et la nuit sans fin une fois.
 
+5
 
-« Va jouer dehors Ia prochaine fois...» 2.4
+primogem
+
+« Approfondi et minutieux » 
+
+Obtenez la reconnaissance des jibashiri.
+
+5
+
+primogem
+
+« Comme une anguille en hiver » 
+
+Obtenez la reconnaissance des jibashiri.
+
+5
+
+primogem
+
+« Sans pareil dans tout Tokoyo » 
+
+Obtenez la reconnaissance des jibashiri.
+
+5
+
+primogem
+
+« Va jouer dehors la prochaine fois... » 
+
 Terminez le défi du labyrinthe de Date.
 
-« Sil'Ookami Tokoyo savait ga...» 24
+5
+
+primogem
+
+« Si l'Ookami Tokoyo savait ça... » 
+
 Ramenez tous les livres et...
 
-«Y a vraiment une difference?» 24
-Asseyez-vous 4 chaque endroit spécial.
+5
 
-Que les enfants célestes dansent... 2.4
-Parlez a toutes les apparitions remanentes des
-Phaétons.
+primogem
 
-Lumieére et obscurité, entre crépuscule et aube
-24
+« Y a vraiment une différence ? » 
+
+Asseyez-vous à chaque endroit spécial.
+
+5
+
+primogem
+
+Que les enfants célestes dansent... 
+
+Parlez à toutes les apparitions rémanentes des Phaétons.
+
+5
+
+primogem
+
+Lumière et obscurité, entre crépuscule et aube 
+
 Rendez-vous au sommet du Dainichi Mikoshi.
 
-Droit danslapomme! 2.4
-Terminez le défi de tir a l'arc.
+5
 
-Uhéritage malheureux du Clan lwakura 2.4
-Ramenez Ia lame du maitre lwakura.
+primogem
 
-Achaque serruresaclé 24
+Droit dans la pomme ! 
+
+Terminez le défi de tir à l'arc.
+
+5
+
+primogem
+
+L'héritage malheureux du Clan Iwakura 
+
+Ramenez la lame du maître Iwakura.
+
+5
+
+primogem
+
+À chaque serrure sa clé 
+
 Trouvez tous les sigils-clés.
 
-Vallée recluse 2.6
+10
+
+primogem
+
+Vallée recluse 
+
 Débloquez la « Vallée recluse ».
 
-Les chroniques miniéres du Gouffre 26
-Lisez tous les morceaux d'ouvrage liés &
-lexploitation miniére dans le Gouffre.
+5
 
-Peuple dela valléedelavie 26
-Trouvez la graine séchée, mais ne la mangez pas
-imprudemment !
+primogem
 
-CredeTenebris 26
+Les chroniques minières du Gouffre 
 
-UUVTe. 10 SQHE SECTELE GOs l@s TUINes.
+Lisez tous les morceaux d'ouvrage liés à l'exploitation minière dans le Gouffre.
 
-Larumeurenneufmots 26
+5
+
+primogem
+
+Peuple de la vallée de la vie 
+
+Trouvez la graine séchée, mais ne la mangez pas imprudemment !
+
+5
+
+primogem
+
+Crede Tenebris 
+
+Ouvrez la salle secrète dans les ruines.
+
+5
+
+primogem
+
+La rumeur en neuf mots 
+
 Trouvez tous les messages secrets.
 
-Niddeguépes 26
+5
+
+primogem
+
+Nid de guêpes 
 
 Trouvez le trésor des Pilleurs de trésors.
 
-Go go,G@nousle magot! 26
-Obtenez trois coffres et réussissez le jeu de chasse
-aux trésors de Chou.
+5
 
-Analyses del'humanité 26
-Terminez toutes les enquétes écologiques et
-obtenez Ia lettre de recommandation de Khedive.
+primogem
 
-« Qui d’autre que moi!» 26
-Récupé€rez les lettres des Fatui dans le Gouffre.
+Go go, à nous le magot ! 
 
-Tous auxabris! 2.6
-Utilisez le « dispositif de démolition 4 distance de
-sécurité - modéle 2156 » pour dégager le chemin.
+Obtenez trois coffres et réussissez le jeu de chasse aux trésors de Chou.
 
-Les tourments des ténébres... 2.6
+5
+
+primogem
+
+Analyses de l'humanité 
+
+Terminez toutes les enquêtes écologiques et obtenez la lettre de recommandation de Khedive.
+
+5
+
+primogem
+
+« Qui d'autre que moi ! » 
+
+Récupérez les lettres des Fatui dans le Gouffre.
+
+5
+
+primogem
+
+Tous aux abris ! 
+
+Utilisez le « dispositif de démolition à distance de sécurité - modèle 2156 » pour dégager le chemin.
+
+5
+
+primogem
+
+Les tourments des ténèbres... 
+
 Vainquez la chose qui a émergé du brouillard noir.
 
-«Full-idiot Alchemist » 26
+5
+
+primogem
+
+« Full-idiot Alchemist » 
+
 Sauvez Clitopho.
 
-Rémanence de courage 26
-Ou repose le véritable sens de l'aventure ?
+5
 
-Aconsommer avec modération! 2.6
-Trouvez oncle He, le mineur disparu, dans le
-Gouffre.
+primogem
 
-Un champignon bien exigeant 2.6
+Rémanence de courage 
+
+Où repose le véritable sens de l'aventure ?
+
+5
+
+primogem
+
+À consommer avec modération ! 
+
+Trouvez oncle He, le mineur disparu, dans le Gouffre.
+
+5
+
+primogem
+
+Un champignon bien exigeant 
+
 Terminez la mission de Xamaran dans le Gouffre.
 
+5
 
-Obtenez toutes les offrandes laissées par les
-Millelithes et réecupérez le trésor.
+primogem
 
-Touche-d-tout,bondrien 26
-Découvrez l'histoire de Tang Wuchou, le héros des
-falaises.
+Les Millelithes sont éternels ! 
 
-Bien joué, Stierlitz! 26
-Aidez Yanbo 4 terminer la mission des Millelithes.
+Obtenez toutes les offrandes laissées par les Millelithes et récupérez le trésor.
 
-Et dans les ténébres les délier.. 2.6
+5
 
-Utilisez la lumiére florissante de la pierre de lumen
-pour illuminer pour la premiére fois les tenébres
-cristallisées d'une concrétion visqueuse.
+primogem
 
-«...Ga puelasphalte. » 2.6
-Succombez une premiére fois G la boue noire...
+Touche-à-tout, bon à rien 
 
-« Encore quelques biches et du vinaigre...» 2.6
-lly a plus d'un chemin secret vers la surface...
+Découvrez l'histoire de Tang Wuchou, le héros des falaises.
 
-LerécitdeTaliesin 26
+5
+
+primogem
+
+Bien joué, Stierlitz ! 
+
+Aidez Yanbo à terminer la mission des Millelithes.
+
+5
+
+primogem
+
+Et dans les ténèbres les délier... 
+
+Utilisez la lumière florissante de la pierre de lumen pour illuminer pour la première fois les ténèbres cristallisées d'une concrétion visqueuse.
+
+5
+
+primogem
+
+« ... Ça pue l'asphalte. » 
+
+Succombez une première fois à la boue noire...
+
+5
+
+primogem
+
+« Encore quelques bûches et du vinaigre... » 
+
+Il y a plus d'un chemin secret vers la surface...
+
+5
+
+primogem
+
+Le récit de Taliesin 
+
 Obtenez le cadeau de Taliesin.
 
-Comme en pleinjour! 26
-Faites-moi briller tout ga !
+5
 
-SageG@Sumeru 3.0
-Atteignez un Niv. de réputation 10 4 Sumeru.
+primogem
 
-Pour unservicetiptop 3.0
-Offrez votre aide 4 de nombreux aranaras dans la
-forét.
+Comme en plein jour ! 
 
-La porte des merveilles 3.0
+Faites-moi briller tout ça !
+
+5
+
+primogem
+
+Sage à Sumeru 
+
+Atteignez un Niv. de réputation 10 à Sumeru.
+
+20
+
+primogem
+
+Pour un service tip top 
+
+Offrez votre aide à de nombreux aranaras dans la forêt.
+
+5
+
+primogem
+
+La porte des merveilles 
+
 Entrez réellement dans le monde des aranaras...
 
-Entre réve et réalité 3.0
+5
+
+primogem
+
+Entre rêve et réalité 
+
 Entrez dans la Vanarana de la réalité.
 
-Ballade en forét 3.0
-#Vous semblez avoir le potentiel pour devenir
-{m#cueilleur}{F#cueilleuse} de chant...
+5
 
-Un voyage tranquille 3.0
-Ine faut pas manquer le paysage le long du
-chemin.
+primogem
 
-Mélodie aux mille feux 3.0
-... lls transmettront cette mélodie de génération en
-génération.
+Ballade en forêt 
 
-Une forét pleine d'histoires 3.0
-Ecoutez 5 contes de la forét auprés d’Aravinay.
+#Vous semblez avoir le potentiel pour devenir {M#cueilleur}{F#cueilleuse} de chant...
 
-Une pépiniére autrefois émeraude 3.0
+5
+
+primogem
+
+Un voyage tranquille 
+
+Il ne faut pas manquer le paysage le long du chemin.
+
+5
+
+primogem
+
+Mélodie aux mille feux 
+
+... Ils transmettront cette mélodie de génération en génération.
+
+5
+
+primogem
+
+Une forêt pleine d'histoires 
+
+Écoutez 5 contes de la forêt auprès d'Aravinay.
+
+5
+
+primogem
+
+Une pépinière autrefois émeraude 
+
 Entrez dans la Vanarana d'antan.
 
-Lafindelannihilation 3.0
+5
+
+primogem
+
+La fin de l'annihilation 
+
 Vous avez vaincu l'avatar de la Marana, puis...
 
-Bien que je puisse retourner Glaterre... 3.0
-.. Mes réves et mes désirs ne s'ajourneront pas.
+5
 
-Eternellement d’au-deld delaforét 3.0
+primogem
+
+Bien que je puisse retourner à la terre... 
+
+... Mes rêves et mes désirs ne s'ajourneront pas.
+
+5
+
+primogem
+
+Éternellement d'au-delà de la forêt 
+
 Ainsi, tout est réglé !
 
-Bon appétit bien sdr:Vanarana 3.0
-Aidez les fréres d’Arapacati avec leurs suprémes
-délicatesses.
+5
 
-Sésame, ouvre-toi 3.0
-Utilisez le code secret pour entrer dans le camp
-caché des Fatui.
+primogem
 
-Entretien avec untrésorier 3.0
+Bon appétit bien sûr : Vanarana 
+
+Aidez les frères d'Arapacati avec leurs suprêmes délicatesses.
+
+5
+
+primogem
+
+Sésame, ouvre-toi 
+
+Utilisez le code secret pour entrer dans le camp caché des Fatui.
+
+5
+
+primogem
+
+Entretien avec un trésorier 
+
 Trouvez le trésor des aranaras.
 
-(or seat a festa dteoornossier ST
+5
 
+primogem
+
+Qui murmurait à l'oreille des vamadhas 
 
 Tournez chaque vamadha qui renferme un trésor.
 
-AunomdAnfortas! 3.0
-Visitez 'endroit ot les héros ont rencontré leur fin.
+5
 
-Lappel dela villesansnom 3.0
+primogem
+
+Au nom d'Anfortas ! 
+
+Visitez l'endroit où les héros ont rencontré leur fin.
+
+5
+
+primogem
+
+L'appel de la ville sans nom 
+
 Calmez le mystérieux vélin.
 
-Avecleauetlevent 3.0
-Terminez « Jusqu’d la guérison de la vana ».
+5
 
-Que je dérive tranquillement dans loubli 3.0
+primogem
+
+Avec l'eau et le vent 
+
+Terminez « Jusqu'à la guérison de la vana ».
+
+5
+
+primogem
+
+Que je dérive tranquillement dans l'oubli 
+
 Terminez « Vimana Agama ».
 
-Et les rouages du temps tournent Gnouveau 3.0
+10
+
+primogem
+
+Et les rouages du temps tournent à nouveau 
+
 Terminez l'affaire inachevée d'Aradasha.
 
-Attention enjouant 3.0
-Jouez avec les aranaras dans la forét.
+5
 
-Subsistance éternelle 3.0
-Partez avec Varsha pour visiter la pépiniére
-diaranaras dans Ia vraie vie.
+primogem
 
-Quand les réves fleurissent 3.0
-Faites fleurir les viparyas dans toute la pépiniére
-daranaras.
+Attention en jouant 
 
-Un noyer au milieu des jardins 3.0
-Interrogez Khayyam 4 propos des souvenirs
-perdus.
+Jouez avec les aranaras dans la forêt.
 
-Enquéte monstro-écologique GSumeru 3.0
-Accomplissez votre tache en protégeant ceux qui
-habitent dans les foréts.
+5
 
-Quand le lion retrouve sa hardiesse... 3.0
-Retrouvez le courage perdu d’Arashakun.
+primogem
 
-Ausommetdelasagesse 3.0
-Atteignez le point culminant de Ia Ville de Sumeru.
+Subsistance éternelle 
 
-#{F#Lexploratrice}{M#Lexplorateur} 3.0
-Utilisez les reactions de Catalyse pour découvrir
-ce qui était caché.
+Partez avec Varsha pour visiter la pépinière d'aranaras dans la vraie vie.
 
-Les jasmins murmurent, |
-réjouissent 3.0
+5
+
+primogem
+
+Quand les rêves fleurissent 
+
+Faites fleurir les viparyas dans toute la pépinière d'aranaras.
+
+5
+
+primogem
+
+Un noyer au milieu des jardins 
+
+Interrogez Khayyam à propos des souvenirs perdus.
+
+5
+
+primogem
+
+Enquête monstro-écologique à Sumeru 
+
+Accomplissez votre tâche en protégeant ceux qui habitent dans les forêts.
+
+5
+
+primogem
+
+Quand le lion retrouve sa hardiesse... 
+
+Retrouvez le courage perdu d'Arashakun.
+
+5
+
+primogem
+
+Au sommet de la sagesse 
+
+Atteignez le point culminant de la Ville de Sumeru.
+
+5
+
+primogem
+
+#{F#L'exploratrice}{M#L'explorateur} 
+
+Utilisez les réactions de Catalyse pour découvrir ce qui était caché.
+
+5
+
+primogem
+
+Les jasmins murmurent, les grenades se réjouissent 
+
 Terminez « Soutra d'Agnihotra ».
 
-Mistral gagnant 3.0
-Activez trois champs de vent dans Ia Forét de
-Mawtiyima.
+10
 
-Larégledetrois 3.0
-Trouvez trois partitions musicales perdues et
-obtenez trois fruits vasomas.
+primogem
 
-Uamer fruit des réves 3.0
-Utilisez le kusava pour la premiére fois.
+Mistral gagnant 
 
-Dans Ia terre, la pluie sinfiltre 3.0
+Activez trois champs de vent dans la Forêt de Mawtiyima.
+
+5
+
+primogem
+
+La règle de trois 
+
+Trouvez trois partitions musicales perdues et obtenez trois fruits vasomas.
+
+5
+
+primogem
+
+L'amer fruit des rêves 
+
+Utilisez le kusava pour la première fois.
+
+5
+
+primogem
+
+Dans la terre, la pluie s'infiltre 
+
 Terminez « Varuna Gatha ».
 
-Etquegacoule! 3.0
-Utilisez votre Daguerréotype pour capturer le
-moment ou le varunastra démarre..
+10
 
-#{F#Madame}{M#Monsieur} météo 3.0
-Contr6lez l'outil varuna pour changer le temps
-dans les Bois d'‘Apam.
+primogem
 
-Quelle journée, quelle journée merveilleuse! 3.0
-Trouvez le trésor en suivant les indices dans les
-coffres.
+Et que ça coule ! 
 
-EnfantdeKara 3.0
-Flottez librement dans Ia forét.
+Utilisez votre Daguerréotype pour capturer le moment où le varunastra démarre.
 
+5
 
-RABAT AAR AA ag prot td
-Suivez la béte de somme sans propriétaire jusqu'a
-ce quielle termine son voyage.
+primogem
 
-Leth? eel
+#{F#Madame}{M#Monsieur} météo 
 
-Euréka! 3.0
-Trouvez et résolvez une série d’énigmes dans la
-Ville de Sumeru.
+Contrôlez l'outil varuna pour changer le temps dans les Bois d'Apam.
 
-Mélodie dela nuitetdel'aube 3.0
-.. Nous nous reverrons certainement ailleurs...
+5
 
-Rencontres de quel type? 3.1
-Des « amis » insolites ont rejoint !@quipe
-d'archéologie...
+primogem
 
-Uodyssée dans le désert 311
-Uexploration du désert vient de commencer...
+Quelle journée, quelle journée merveilleuse ! 
 
-#Comme {M#un chercheur}{F#une
-chercheuse} du Vahumana 3.1
+Trouvez le trésor en suivant les indices dans les coffres.
+
+5
+
+primogem
+
+Enfant de Kara 
+
+Flottez librement dans la forêt.
+
+5
+
+primogem
+
+Une réunion qui n'en finit plus 
+
+Suivez la bête de somme sans propriétaire jusqu'à ce qu'elle termine son voyage.
+
+5
+
+primogem
+
+Eurêka ! 
+
+Trouvez et résolvez une série d'énigmes dans la Ville de Sumeru.
+
+5
+
+primogem
+
+Mélodie de la nuit et de l'aube 
+
+... Nous nous reverrons certainement ailleurs...
+
+5
+
+primogem
+
+Rencontres de quel type ? 
+
+Des « amis » insolites ont rejoint l'équipe d'archéologie...
+
+5
+
+primogem
+
+L'odyssée dans le désert 
+
+L'exploration du désert vient de commencer...
+
+5
+
+primogem
+
+#Comme {M#un chercheur}{F#une chercheuse} du Vahumana 
+
 La bouteille d'encre a un pouvoir redoutable.
 
-Fata Morgana 31
-Le chemin vers le tr6ne a enfin été révélé.
+5
 
-Créer, changer, stocker et utiliser 3.1
-Méme les clés doivent étre « approuvées ».
+primogem
 
-La lampe magique divine 3.
+Fata Morgana 
+
+Le chemin vers le trône a enfin été révélé.
+
+5
+
+primogem
+
+Créer, échanger, stocker et utiliser 
+
+Même les clés doivent être « approuvées ».
+
+5
+
+primogem
+
+La lampe magique divine 
+
 Un petit pas vers la dissimulation de la vérité...
 
-La marche du peuple duroiDeshret 3.1
-Obtenez la permission de franchir de nombreuses
-portes.
+5
 
-Lechemin droit 31
-Atteignez l'espace caché au sommet du Mausolée
-du roi Deshret.
+primogem
 
-Lavoie delillumination 31
+La marche du peuple du roi Deshret 
 
+Obtenez la permission de franchir de nombreuses portes.
 
-NAIA AIDS INI AO AO
+5
 
-RBIS RED re Pe D
-monuments ont été construits ou pourquoi ils ont
-été perdus dans le temps...
+primogem
 
-Bis repetita! 3.1
+Le chemin droit 
 
-Tenez-vous G nouveau devant le roi Deshret dans
+Atteignez l'espace caché au sommet du Mausolée du roi Deshret.
 
-#{M#incliné}{F#inclinée} au sommet du
-monde 31
-Terminez « Le dilemme d’Afratu ».
+5
 
-Et ce bouton, ca fait quoi? 3.1
+primogem
+
+La voie de l'illumination 
+
+Personne ne sait comment ces grands monuments ont été construits ou pourquoi ils ont été perdus dans le temps...
+
+5
+
+primogem
+
+Bis repetita ! 
+
+Tenez-vous à nouveau devant le roi Deshret dans Khaj-Nisut.
+
+5
+
+primogem
+
+#{M#Incliné}{F#Inclinée} au sommet du monde 
+
+Terminez « Le dilemme d'Afratu ».
+
+10
+
+primogem
+
+Et ce bouton, ça fait quoi ? 
+
 Tant que vous ratez, ce n'est pas grave...
 
-Le soulévement des machines 31
-#Toutes les machines de Khaenri‘ah sont-elles
-aussi tranges{NON_BREAK_SPACE}?.
+5
 
-Et le mot de passe alors? 3.1
-Ouvrez la porte mystérieuse du Rocher
-agneauvore.
+primogem
 
-Lafinducouloir 3.1
-Entrez dans la chambre Ia plus secréte en bas du
-Mausolée du roi Deshret.
+Le soulèvement des machines 
 
-Leroides quatreterres 3.1
-Trouvez et débloquez les secrets de toutes les
-ruines transparentes du désert.
+#Toutes les machines de Khaenri'ah sont-elles aussi étranges{NON_BREAK_SPACE}?
 
-La mer de sable du régne écarlate 3.1
+5
+
+primogem
+
+Et le mot de passe alors ? 
+
+Ouvrez la porte mystérieuse du Rocher agneauvore.
+
+5
+
+primogem
+
+La fin du couloir 
+
+Entrez dans la chambre la plus secrète en bas du Mausolée du roi Deshret.
+
+5
+
+primogem
+
+Le roi des quatre terres 
+
+Trouvez et débloquez les secrets de toutes les ruines transparentes du désert.
+
+5
+
+primogem
+
+La mer de sable du règne écarlate 
+
 Explorez les trois grands obélisques dans le désert.
 
-Gravé 31
-La beauté et I'espoir sont les plus tendres
-souvenirs des morts.
+5
 
-Avant moi 311
-Les gens ne veulent pas mentionner son nom, ni
-se souvenir de ses paroles ou de ses actes.
+primogem
 
-Lacitéillusoire 31
+Gravé 
+
+La beauté et l'espoir sont les plus tendres souvenirs des morts.
+
+5
+
+primogem
+
+Avant moi 
+
+Les gens ne veulent pas mentionner son nom, ni se souvenir de ses paroles ou de ses actes.
+
+5
+
+primogem
+
+La cité illusoire 
+
 Vivez votre premier mirage dans le désert.
 
-Comment ga s‘écrit, un rapport de fouille ? 3.1
-—xplorez les ruines sous le désert pour la premiére
-fois.
+5
 
-Dérivant dans levent 3.1
+primogem
+
+Comment ça s'écrit, un rapport de fouille ? 
+
+Explorez les ruines sous le désert pour la première fois.
+
+5
+
+primogem
+
+Dérivant dans le vent 
+
 Brisez la boule d'herbes virevoltant dans le désert.
 
-«Hé6pital Break» 31
-ily aun survivant qui s'est enfui...
+5
 
-#{M#Un archéologue bien formé}{F#Une
-archéologue bien formée} 3.1
+primogem
 
-Ramenez tous les obélisques primaux du Désert
-hypostyle, du Haut-Setekh et du Bas-Setekh 4 la
-vie.
+« Hôpital Break » 
 
-Au-dela del'ombre dutemps 3.1
-Touchez toutes les fresques mystérieuses du
-désert.
+Il y a un survivant qui s'est enfui...
 
-« Si elles avaient connu l'Inconnaissable...» 3.4
-Liloupar se libére de son contrat avec vous,
-choisissant d'affronter son destin sombre et
-lointa
+5
 
-«Oh, quest-ce qu'une éternité de servitude... »
-3.4
+primogem
 
-La djinn Liloupar, qui sommeille depuis des
+#{M#Un archéologue bien formé}{F#Une archéologue bien formée} 
 
-centaines et des milliers d'années, a conclu un
+Ramenez tous les obélisques primaux du Désert hypostyle, du Haut-Setekh et du Bas-Setekh à la vie.
 
-pacte avec vous.
+5
 
-Le passé dela villesansnom 3.4
-Les fresques du temple de Gurabad parlent d'une
-€@poque révolue glorieuse...
+primogem
 
-Le silencieux paradis sans réves 3.4
+Au-delà de l'ombre du temps 
 
+Touchez toutes les fresques mystérieuses du désert.
 
-IARI ASAI NRT Th IRR II NAD INI IT PI
+5
 
-long sommeil sans réve d'une divinité...
+primogem
 
-«... Car elle rend a chacun selon ses ceuvres... »
-3.4
+« Si elles avaient connu l'Inconnaissable... » 
 
-Les malfaiteurs et leurs oracles auront-ils connu
+Liloupar se libère de son contrat avec vous, choisissant d'affronter son destin sombre et lointain...
 
-ce jour ot le vengeur déchaine sa juste fureur ?
+5
 
-Auclairdelalunerougesang 3.4
-A travers ce vaste échiquier, quelles horreurs se
+primogem
 
-sont jouées sous la lumiére de Ia lune rouge sang
-?
+« Oh, qu'est-ce qu'une éternité de servitude... » 
 
-Géant ver, écrasetout! 3.4
+La djinn Liloupar, qui sommeille depuis des centaines et des milliers d'années, a conclu un pacte avec vous.
 
-Les vers des sables aveugles s'écrasent 4 travers
-le désert, et pourtant, méme de telles charges
-imprudentes donnent parfois des résultats...
+5
 
-«Moi aussi, jeles déteste!» 3.4
-Faites-vous attaquer par un Wenut pour la
-premiére fois.
+primogem
 
-Origine deladivergence 3.4
-Découvrez la vérité derriére l'ani ition de
-l@quipe de recherche érémite 4 Gurabad.
+Le passé de la ville sans nom 
 
-Méme pas besoin de manuel... 3.4
-Redonnez G Benben son état diorigine.
+Les fresques du temple de Gurabad parlent d'une époque révolue glorieuse...
 
-Labonté du chasseur 3.4
-Laissez Tadhla le faucon choisir son propre
-destin...
+5
 
-Merci d'avoir choisi la compagnie tapis volant
-3.4
-Ce réve bleu. Je n'y crois pas, c'est merveilleux !
+primogem
 
-«Olabellevie» 3.4
+Le silencieux paradis sans rêves 
 
-Les palais des vers des sables ont beau étre
-complexes, la vie trouve toujours un chemin
-inattendu...
+C'est le mausolée de la déesse des fleurs, c'est le long sommeil sans rêve d'une divinité...
 
-Jardins et fontaines d’antan 3.4
+5
 
-Les bassins en terrasses qui débordaient autrefois
-d'eau de source sont désormais remplis de sable
-jaune...
+primogem
 
-«Lagloiredemamére» 3.4
+« ... Car elle rend à chacun selon ses œuvres... » 
 
-Les padisachidées fuchsia spanouissent sur un
-tréne vide, comme |'éternel sourire de leur
-maitresse...
+Les malfaiteurs et leurs oracles auront-ils connu ce jour où le vengeur déchaîne sa juste fureur ?
 
-«... Montrerai aux royaumes ta honte.» 3.4
-Faites réapparaitre l'échiquier en ruine au milieu
-des sables.
+5
 
-Car tu es sable, et tu retourneras dans le sable
-3.4
+primogem
+
+Au clair de la lune rouge sang 
+
+À travers ce vaste échiquier, quelles horreurs se sont jouées sous la lumière de la lune rouge sang ?
+
+5
+
+primogem
+
+Géant ver, écrase tout ! 
+
+Les vers des sables aveugles s'écrasent à travers le désert, et pourtant, même de telles charges imprudentes donnent parfois des résultats...
+
+5
+
+primogem
+
+« Moi aussi, je les déteste ! » 
+
+Faites-vous attaquer par un Wenut pour la première fois.
+
+5
+
+primogem
+
+Origine de la divergence 
+
+Découvrez la vérité derrière l'annihilation de l'équipe de recherche érémite à Gurabad.
+
+5
+
+primogem
+
+Même pas besoin de manuel... 
+
+Redonnez à Benben son état d'origine.
+
+5
+
+primogem
+
+La bonté du chasseur 
+
+Laissez Tadhla le faucon choisir son propre destin...
+
+5
+
+primogem
+
+Merci d'avoir choisi la compagnie tapis volant 
+
+Ce rêve bleu. Je n'y crois pas, c'est merveilleux !
+
+5
+
+primogem
+
+« Ô la belle vie » 
+
+Les palais des vers des sables ont beau être complexes, la vie trouve toujours un chemin inattendu...
+
+5
+
+primogem
+
+Jardins et fontaines d'antan 
+
+Les bassins en terrasses qui débordaient autrefois d'eau de source sont désormais remplis de sable jaune...
+
+5
+
+primogem
+
+« La gloire de ma mère » 
+
+Les padisachidées fuchsia s'épanouissent sur un trône vide, comme l'éternel sourire de leur maîtresse...
+
+5
+
+primogem
+
+« ... Montrerai aux royaumes ta honte. » 
+
+Faites réapparaître l'échiquier en ruine au milieu des sables.
+
+5
+
+primogem
+
+Car tu es sable, et tu retourneras dans le sable 
+
 Comme toute vie dans le désert...
 
-Quisémelevent.. 34
+5
+
+primogem
+
+Qui sème le vent... 
+
 « On se dirige vers un enfer météorologique. »
 
-Latarentulede Loveless 3.4
+5
+
+primogem
+
+La tarentule de Loveless 
+
 « Je te réduirai en cambouis ! »
 
-Parvezravan Khwarrah 3.4
-Ramenez tous les obélisques primaux du Désert
-de Hadramaveth 4 Ia vie.
+5
 
-Untrés long engagement 3.4
-Méme si les destins sont rompus, le pacte vit dans
-un sommeil....
+primogem
 
-Terredelumiére 36
-Atteignez I'fden du vourukasha.
+Parvezravan Khwarrah 
 
-$'élevant au-dessus des montagnes sombres
-36
+Ramenez tous les obélisques primaux du Désert de Hadramaveth à la vie.
 
-Accompagnez Mihir tout au long de son
+5
 
-pélerinage de purification.
+primogem
 
-Lacollineadesarbres 3.6
-Ramenez Rashnu 4 l'€den du vourukasha.
+Un très long engagement 
 
-Danslabrume 3.6
-Dissipez la brume violette imprégnant le Marais de
-lasipattravana.
+Même si les destins sont rompus, le pacte vit dans un sommeil...
 
-PaimonKonga 3.6
-Récup€rez les cing korybantes.
+5
 
-Vyakarana des oiseaux 3.6
-Sorush obtient le chapelet & deux cornes avec
-Zurvan comme témoin...
+primogem
 
-Justigo-Fulguropoing! 3.6
-Utilisez le canon des ruines pour détruire le noyau
-du Golem.
+Terre de lumière 
 
-« Vous qui entrez ici, abandonnez toute
-espérance.» 3.6
+Atteignez l'Éden du vourukasha.
+
+5
+
+primogem
+
+S'élevant au-dessus des montagnes sombres 
+
+Accompagnez Mihir tout au long de son pèlerinage de purification.
+
+5
+
+primogem
+
+La colline a des arbres 
+
+Ramenez Rashnu à l'Éden du vourukasha.
+
+5
+
+primogem
+
+Dans la brume 
+
+Dissipez la brume violette imprégnant le Marais de l'asipattravana.
+
+5
+
+primogem
+
+Paimon Konga 
+
+Récupérez les cinq korybantes.
+
+5
+
+primogem
+
+Vyakarana des oiseaux 
+
+Sorush obtient le chapelet à deux cornes avec Zurvan comme témoin...
+
+5
+
+primogem
+
+Justiço-Fulguropoing ! 
+
+Utilisez le canon des ruines pour détruire le noyau du Golem.
+
+5
+
+primogem
+
+« Vous qui entrez ici, abandonnez toute espérance. » 
+
 Atteignez la fin des royaumes de la surface.
 
-Fabricator Général 3.6
-Activez le grand ascenseur dans I'atelier des
-ruines souterraines.
+5
 
-Lépreuve des Haft-Vadi 3.6
-Vous détenez désormais le pouvoir des hymnes
-finaux de Ia khvarena.
+primogem
 
-Une corde Gtraversl'abime 3.6
-Terminez le rituel de la traversée et frayez-vous un
-chemin G travers l'obscurité.
+Fabricator Général 
 
-Chameau, lion, puis enfant 3.6
-Obtenez tous les coeurs spentas dans les
-Chambres souillées.
+Activez le grand ascenseur dans l'atelier des ruines souterraines.
 
-lejourdeTirgan 3.6
-En nettoyant l'abime dept
+5
 
+primogem
 
-IO AI II AIA KI SIA ED
-terres.
+L'épreuve des Haft-Vádí 
 
-Un voyage fantastique 3.6
-Terminez « Un artiste a la dérive ».
+Vous détenez désormais le pouvoir des hymnes finaux de la khvarena.
 
-«Mystére résolu!» 3.6
+5
+
+primogem
+
+Une corde à travers l'abîme 
+
+Terminez le rituel de la traversée et frayez-vous un chemin à travers l'obscurité.
+
+5
+
+primogem
+
+Chameau, lion, puis enfant 
+
+Obtenez tous les cœurs spentas dans les Chambres souillées.
+
+5
+
+primogem
+
+Le jour de Tirgan 
+
+En nettoyant l'abîme depuis le ciel, l'énergie de la khvarena et de l'amrita rayonne à travers les terres.
+
+5
+
+primogem
+
+Un voyage fantastique 
+
+Terminez « Un artiste à la dérive ».
+
+5
+
+primogem
+
+« Mystère résolu ! » 
+
 Terminez « Analyse de monument ».
 
-Ilssontderetour 3.6
+5
+
+primogem
+
+Ils sont de retour 
+
 Terminez « Flamme vacillante ».
 
-Mers d’abondance 3.6
-Tous les bassins de Eden sont désormais
-revitalisés.
+5
 
-Méme pas peur! 3.6
-Réussissez toutes les 6preuves de Jarjar.
+primogem
 
-Deepavali 3.6
+Mers d'abondance 
 
-Terminez tous les défis de la cloche des Gmes.
+Tous les bassins de l'Éden sont désormais revitalisés.
 
-Danse des sept plats 3.6
-Terminez tous les défis de « Saute-champis
-percutant ».
+5
 
-Lumiére danslaboue 3.6
-Utilisez l'énergie de la khvarena pour détruire un
-cristal gris pour la premiére fois.
+primogem
 
-«Est-ce un avion ? Est-ce unoiseau?» 36
+Même pas peur ! 
+
+Réussissez toutes les épreuves de Jarjar.
+
+5
+
+primogem
+
+Deepavali 
+
+Terminez tous les défis de la cloche des âmes.
+
+5
+
+primogem
+
+Danse des sept plats 
+
+Terminez tous les défis de « Saute-champis percutant ».
+
+5
+
+primogem
+
+Lumière dans la boue 
+
+Utilisez l'énergie de la khvarena pour détruire un cristal gris pour la première fois.
+
+5
+
+primogem
+
+« Est-ce un avion ? Est-ce un oiseau ? » 
+
 Non, c'est Sorush qui fait son premier vol !
 
-Dans le ciel de Sary-Ozek 3.6
-Sorush est restée en vol pendant un certain.
-temps.
+5
 
-De qui es-tu la descendante et quel est ton nom ?
-3.6
-Sorush a fait appel a I'énergie de la khvarena pour
+primogem
 
-la premiere fois.
+Dans le ciel de Sary-Ozek 
 
-Utilise la Force, Sorush 3.6
-Sorush a lancé des fruits de nirodha pour
-dissoudre 15 cristaux condensés 4 partir damrita.
+Sorush est restée en vol pendant un certain temps.
 
-Gommeur dangle 4.0
-R€primez la faille bestiale en utilisant la puissance
-des cristaux.
+5
 
-Refroidissement Geau 4.0
+primogem
+
+De qui es-tu la descendante et quel est ton nom ? 
+
+Sorush a fait appel à l'énergie de la khvarena pour la première fois.
+
+5
+
+primogem
+
+Utilise la Force, Sorush 
+
+Sorush a lancé des fruits de nirodha pour dissoudre 15 cristaux condensés à partir d'amrita.
+
+5
+
+primogem
+
+Gommeur d'angle 
+
+Réprimez la faille bestiale en utilisant la puissance des cristaux.
+
+5
+
+primogem
+
+Refroidissement à eau 
+
 Faites en sorte que le lac agité redevienne calme.
 
-Le bateaublanc 4.0
-« Il navigue sur la mer des réves... »
+5
 
-Ueau vraiment Gla bouche! 4.0
-Aidez Henri G changer son destin.
+primogem
 
-Encyclopédie de philosophie naturelle 4.0
+Le bateau blanc 
 
-Utilisez le mur de verre et un livre indéchiffrable
-pour découvrir le lieu de rassemblement d'un.
-ancien ordre.
+« Il navigue sur la mer des rêves... »
 
-Un message fontainois 4.0
+5
+
+primogem
+
+L'eau vraiment à la bouche ! 
+
+Aidez Henri à changer son destin.
+
+5
+
+primogem
+
+Encyclopédie de philosophie naturelle 
+
+Utilisez le mur de verre et un livre indéchiffrable pour découvrir le lieu de rassemblement d'un ancien ordre.
+
+5
+
+primogem
+
+Un message fontainois 
+
 Ayez une discussion amicale avec Virgil.
 
-Rien qu'un limier... 4.0
-Aldez Mamére G réparer Seymour.
+5
 
-C'est bon avec du poisson 4.0
-Goitez au merveilleux « gateau d'anniversaire »
-avec les mélusines.
+primogem
 
-Bienvenue GFontaine 4.0
-Terminez un voyage sur I'aquebus.
+Rien qu'un limier... 
 
-lerévediicare 4.0
-Terminez un vol avec I'aéroplane d'Antoine Roger.
+Aidez Mamère à réparer Seymour.
 
-Lanaissance de l'horlogerie moderne 4.0
-Aidez Puca G trouver une « utilité » au minerai.
+5
 
-Futurdumonded’eau 40
-Contemplez l'eau sous Ia surface...
+primogem
 
-Esthétique delalaideur 4.0
-Et Fontaine fait ainsi deux pas de plus vers la
-beauté...
+C'est bon avec du poisson 
 
-Une larme sous la pluie 4.0
-Trouvez l'imposteur au milieu des Raies
-prédatrices.
+Goûtez au merveilleux « gâteau d'anniversaire » avec les mélusines.
 
-Théorie de l'évolution potelée 4.0
-Accompagnez le petit boudiné & mesure quill
-grandit et devient fort.
+5
 
-Quelques-unes de mes... 4.0
-.. Choses préférées.
+primogem
 
-Rendre la monnaiedesmoras 4.0
+Bienvenue à Fontaine 
 
-Occupez-vous de ces ennuyeuses balles-balanes
-!
+Terminez un voyage sur l'aquebus.
 
-Foienlélysée? 40
+5
 
-Aidez 4 construire un paradis pour les boudinés.
+primogem
 
-Aprés les maux... 4.0
+Le rêve d'Icare 
 
-« Pour obtenir la sainte lame qui pourrait vaincre
-le roi démon, le chevalier a fait irruption dans
-lancienne ville scellée par la magie... »
+Terminez un vol avec l'aéroplane d'Antoine Roger.
 
-Etaprés ga... 4.0
+5
 
-« Le chevalier a vaincu le roi démon, sauvant la
-princesse emprisonnée et illuminant G nouveau le
-royaume... »
+primogem
 
-Sémantiqueennoir 4.0
-Trouvez un suiet... particulier des études de
+La naissance de l'horlogerie moderne 
 
-l'Institut de philosophie naturelle.
+Aidez Puca à trouver une « utilité » au minerai.
 
-Vingt mille lieues sous |
+5
+
+primogem
+
+Futur du monde d'eau 
+
+Contemplez l'eau sous la surface...
+
+5
+
+primogem
+
+Esthétique de la laideur 
+
+Et Fontaine fait ainsi deux pas de plus vers la beauté...
+
+5
+
+primogem
+
+Une larme sous la pluie 
+
+Trouvez l'imposteur au milieu des Raies prédatrices.
+
+5
+
+primogem
+
+Théorie de l'évolution potelée 
+
+Accompagnez le petit boudiné à mesure qu'il grandit et devient fort.
+
+5
+
+primogem
+
+Quelques-unes de mes... 
+
+... Choses préférées.
+
+5
+
+primogem
+
+Rendre la monnaie des moras 
+
+Occupez-vous de ces ennuyeuses balles-balanes !
+
+5
+
+primogem
+
+Foi en l'élysée ? 
+
+Aidez à construire un paradis pour les boudinés.
+
+5
+
+primogem
+
+Après les maux... 
+
+« Pour obtenir la sainte lame qui pourrait vaincre le roi démon, le chevalier a fait irruption dans l'ancienne ville scellée par la magie... »
+
+5
+
+primogem
+
+Et après ça... 
+
+« Le chevalier a vaincu le roi démon, sauvant la princesse emprisonnée et illuminant à nouveau le royaume... »
+
+5
+
+primogem
+
+Sémantique en noir 
+
+Trouvez un sujet... particulier des études de l'Institut de philosophie naturelle.
+
+5
+
+primogem
+
+Vingt mille lieues sous les mers 
+
 Suivez le courant...
 
-smers 4.0
+5
 
-Chant desanciens 4.0
-Ecoutez la mélodie d'un passé lointain.
+primogem
 
-Niniannedulac 4.0
+Chant des anciens 
+
+Écoutez la mélodie d'un passé lointain.
+
+5
+
+primogem
+
+Ninianne du lac 
+
 Vainquez la légende locale : Ninianne du lac.
 
-Vivianne dulac 4.0
+5
+
+primogem
+
+Vivianne du lac 
+
 Vainquez la légende locale : Vivianne du lac.
 
-lecredodechacun 4.0
-Chaque chose 4 sa place...
+5
 
-Alarecherche du temps perdu 4.0
-Atteignez un Niv. de réputation 10 4 Fontaine.
+primogem
 
-Juge du circuit océanique 4.0
-Vainquez la légende locale : le Juge du circuit
-océanique.
+Le credo de chacun 
 
-Vicomte defer 4.0
+Chaque chose à sa place...
+
+5
+
+primogem
+
+À la recherche du temps perdu 
+
+Atteignez un Niv. de réputation 10 à Fontaine.
+
+20
+
+primogem
+
+Juge du circuit océanique 
+
+Vainquez la légende locale : le Juge du circuit océanique.
+
+5
+
+primogem
+
+Vicomte de fer 
+
 Vainquez la légende locale : le Vicomte de fer.
 
-Dobharcu, le seigneur dudissimulé 4.0
-Vainquez la légende locale : Dobharcu, le seigneur
-du dissimulé
+5
 
-Vétéranfané 40
+primogem
+
+Dobharcu, le seigneur du dissimulé 
+
+Vainquez la légende locale : Dobharcu, le seigneur du dissimulé
+
+5
+
+primogem
+
+Vétéran fané 
+
 Vainquez la légende locale : le Vétéran fané.
 
-Lames des gorges 4.0
-Vainquez les légendes locales : les lames des
-gorges.
+5
 
-Jumeaux fées chevaliers 4.0
+primogem
 
-Vainquez les légendes locales : les jumeaux fées
-chevaliers.
+Lames des gorges 
 
-«Straight Outta Coupons» 411
-Dépensez un max dans La chiffonnerie.
+Vainquez les légendes locales : les lames des gorges.
 
-Aux 24coupsdelacioche 4.
+5
+
+primogem
+
+Jumeaux fées chevaliers 
+
+Vainquez les légendes locales : les jumeaux fées chevaliers.
+
+5
+
+primogem
+
+« Straight Outta Coupons » 
+
+Dépensez un max' dans La chiffonnerie.
+
+5
+
+primogem
+
+Aux 24 coups de la cloche 
+
 Découvrez la véritable identité de Caterpillar.
 
-JeuGsommenonnulle 4.
-Terminez l'enquéte de satisfaction de la Cantine 4
-coupons.
+5
 
-Version d'un superflu 4.1
-Ecoutez l'histoire de Clynes.
+primogem
 
-Les quatre coups 4.
+Jeu à somme non nulle 
+
+Terminez l'enquête de satisfaction de la Cantine à coupons.
+
+5
+
+primogem
+
+Version d'un superflu 
+
+Écoutez l'histoire de Clynes.
+
+5
+
+primogem
+
+Les quatre coups 
+
 Terminez l'histoire de l'Ordre fruitier et de Blanche.
 
-Au bout del'arc-en-ciel 411
-Suivez la lumiére jusqu’d sa destination finale.
+5
 
-Montre ton minois, minerai! 4.1
+primogem
+
+Au bout de l'arc-en-ciel 
+
+Suivez la lumière jusqu'à sa destination finale.
+
+5
+
+primogem
+
+Montre ton minois, minerai ! 
+
 Collectez les sept mystérieuses pierres jaune-vert.
 
-La porte pas si étroite 41
-Vous avez ouvert la porte d'un certain bureau
-secret.
+5
 
-Ce quireste delajournée 41
-Vous avez passé beaucoup de temps 4 cultiver
-lesthétique.
+primogem
 
-Plus d’années G venir que passées 4.1
+La porte pas si étroite 
+
+Vous avez ouvert la porte d'un certain bureau secret.
+
+5
+
+primogem
+
+Ce qui reste de la journée 
+
+Vous avez passé beaucoup de temps à cultiver l'esthétique.
+
+5
+
+primogem
+
+Plus d'années à venir que passées 
+
 Nous avons tous un avenir brillant...
 
-Romprelazonetemporelle 4.1
-Eclatez le kyste épineux et purifiez les eaux.
+5
 
+primogem
 
-VEU LES NSA LA! al
-Aidez Broglie 4 récupérer et & organiser toutes les
-données hydrologiques.
+Rompre la zone temporelle 
 
-Quand les machines dorment... 4.1
-Découvrez le secret caché dans l'Atelier
-horlogoide de Kuisel.
+Éclatez le kyste épineux et purifiez les eaux.
 
-Les 8 Mékas horlogoides enragés 41
-Obtenez I'héritage des meks « imparfaits ».
+5
 
-Générateur de champ G supercalcul autonome
-al
+primogem
 
-Vainquez la légende locale : le Générateur de
-champ 4 supercalcul autonome.
+Le ruban oublié 
 
-«lls sont Spartacus!» 4.1
-Guidez Poiret et Genevieve vers la victoire dans le
-tournoi amical de pancrace.
+Aidez Broglie à récupérer et à organiser toutes les données hydrologiques.
 
-CommandeMJ 4.1
+5
 
-Déclenchez la propriété cachée de la machine
-lors de la réparation de échantillonneur de
-capacité initiale 2.
+primogem
 
-Le scaphandre et le boudifruit 4.1
-Terminez 'entrainement avancé sous l'eau.
+Quand les machines dorment... 
 
-Luachra la brillante 4.1
-Vainquez la légende locale : Luachra |a brillante.
+Découvrez le secret caché dans l'Atelier horlogoïde de Kuisel.
 
-Comme dans Ia Maison qui rend fou... 4.1
-Terminez l'examen final de l'Institut de recherche
-de Fontaine.
+5
 
-Enloucedé 41
-Obtenez le rapport spécial imprimé en cachette
-par Chronie.
+primogem
 
-Petits filous, chut! 4.
-(hae AST RATA RR FTE 27 Re ei Tee da
+Les 8 Mékas horlogoïdes enragés 
 
+Obtenez l'héritage des meks « imparfaits ».
 
-latelier de presse de Brav
+5
 
-Fonta final 4.1
-.. Un frisson !
+primogem
 
-Fonta final 4.1
-.. Un frisson !
+Générateur de champ à supercalcul autonome 
 
-Fonta final 4.1
-.. Un frisson !
+Vainquez la légende locale : le Générateur de champ à supercalcul autonome.
 
-«... Quelle Nouvelle marée ?» 4.1
+5
+
+primogem
+
+« Ils sont Spartacus ! » 
+
+Guidez Poiret et Geneviève vers la victoire dans le tournoi amical de pancrace.
+
+5
+
+primogem
+
+Commande MJ 
+
+Déclenchez la propriété cachée de la machine lors de la réparation de l'échantillonneur de capacité initiale 2.
+
+5
+
+primogem
+
+Le scaphandre et le boudifruit 
+
+Terminez l'entraînement avancé sous l'eau.
+
+5
+
+primogem
+
+Luachra la brillante 
+
+Vainquez la légende locale : Luachra la brillante.
+
+5
+
+primogem
+
+Comme dans la Maison qui rend fou... 
+
+Terminez l'examen final de l'Institut de recherche de Fontaine.
+
+5
+
+primogem
+
+En loucedé 
+
+Obtenez le rapport spécial imprimé en cachette par Chronie.
+
+5
+
+primogem
+
+Petits filous, chut ! 
+
+Éliminez tous les filous rouges et les petits filous de l'atelier de presse de Bravais.
+
+5
+
+primogem
+
+Fonta final 
+
+... Un frisson !
+
+5
+
+primogem
+
+Fonta final 
+
+... Un frisson !
+
+5
+
+primogem
+
+Fonta final 
+
+... Un frisson !
+
+5
+
+primogem
+
+« ... Quelle Nouvelle marée ? » 
+
 Lisez toutes les revues de mode.
 
-Un hier merveilleux 41
-Le jour qui s'est 6coulé ne peut rester...
+5
 
-#€t {M#un client satisfait} {F#une cliente
-satisfaite}! 4.1
+primogem
 
-Obtenez une bandelette de chance doublement
-chanceuse.
+Un hier merveilleux 
 
-Yseut 41
+Le jour qui s'est écoulé ne peut rester...
+
+5
+
+primogem
+
+#Et {M#un client satisfait}{F#une cliente satisfaite} ! 
+
+Obtenez une bandelette de chance doublement chanceuse.
+
+5
+
+primogem
+
+Yseut 
+
 Vainquez la légende locale : Yseut.
 
-Demain, et demain, et demain! 4.2
-Apprenez G Pahsiv comment dire au revoir.
+5
 
-Résolution de Narzissenkreuz:Labyrinthe 4.2
-« Que penses-tu de ce monde que jai dessiné
-pour toi ? »
+primogem
 
-Veni, vidi, resolvi 4.2
+Demain, et demain, et demain ! 
 
-Apprenez les secrets de I'Ordo Narzissenkreuz et
-battez Jakob.
+Apprenez à Pahsiv comment dire au revoir.
 
-Lempereur immortel du cosmos mortel 4.2
+5
+
+primogem
+
+Résolution de Narzissenkreuz : Labyrinthe 
+
+« Que penses-tu de ce monde que j'ai dessiné pour toi ? »
+
+5
+
+primogem
+
+Veni, vidi, resolvi 
+
+Apprenez les secrets de l'Ordo Narzissenkreuz et battez Jakob.
+
+5
+
+primogem
+
+L'empereur immortel du cosmos mortel 
+
 Vainquez Narzissenkreuz.
 
-‘Au revoir.monsieuréliphas 42
+5
 
-Vainquez Eliphas.
+primogem
 
-Canonnage Goutrance 4.2
-Obtenez un trésor grace a une violente salve de
-canons navals.
+Au revoir, monsieur Éliphas 
 
-Linverse d'un soldat impérial 4.2
+Vainquez Éliphas.
+
+5
+
+primogem
+
+Canonnage à outrance 
+
+Obtenez un trésor grâce à une violente salve de canons navals.
+
+5
+
+primogem
+
+L'inverse d'un soldat impérial 
+
 Touchez toutes les cibles !
 
-Uhistoire est terminée, mais... 4.2
-«Ton histoire et ton aventure sont toujours en
-cours. »
+5
 
-Je craignais que la fureur de mon vent... 4.2
-.. Ne flétrisse toutes les belles et vraies fleurs.
+primogem
 
-Une fin prévisible 4.2
-Vous aidez l'Institut de recherche de Fontaine 4 se
-remettre sur les rails..?
+L'histoire est terminée, mais... 
 
-Non désenchantement dumonde 42
-Donnez des cristaux xénochromatiques
-mystérieux au timonier du Timon rubigineux 3 fois.
+« Ton histoire et ton aventure sont toujours en cours. »
 
-Alavolonté du peuple 4.2
-Obtenez la promesse de Ia rose arc-en-ciel.
+5
 
-Corbeau ou merle? 4.2
-Crest un pélican!
+primogem
 
-Deianeirade Snezhevna 42
-Vainquez la légende locale : Deianeira de
-Snezhevna.
+Je craignais que la fureur de mon vent... 
 
-Je veux que les fées existent, jy crois 4.2
-Aidez Penny 4 résoudre son trouble intérieur.
+... Ne flétrisse toutes les belles et vraies fleurs.
 
-Que représentent les clochettes de Lumidouce
-déja..? 42
+5
 
-Viaiie déceni vray dane iin enin ine flair a iac
+primogem
 
+Une fin prévisible 
 
-personne na prété attention.
+Vous aidez l'Institut de recherche de Fontaine à se remettre sur les rails...?
 
-Lespoir, unjolimot 4.2
-Découvrez une nouvelle vie dans une certaine
-ruine.
+5
 
-Méme César ne pourrait pas acheterca 4.2
-Obtenez Ia plus grande ceuvre d'art du monde.
+primogem
 
-Chassanion 4.2
+Non désenchantement du monde 
+
+Donnez des cristaux xénochromatiques mystérieux au timonier du Timon rubigineux 3 fois.
+
+5
+
+primogem
+
+À la volonté du peuple 
+
+Obtenez la promesse de la rose arc-en-ciel.
+
+5
+
+primogem
+
+Corbeau ou merle ? 
+
+C'est un pélican !
+
+5
+
+primogem
+
+Deianeira de Snezhevna 
+
+Vainquez la légende locale : Deianeira de Snezhevna.
+
+5
+
+primogem
+
+Je veux que les fées existent, j'y crois 
+
+Aidez Penny à résoudre son trouble intérieur.
+
+5
+
+primogem
+
+Que représentent les clochettes de Lumidouce déjà...? 
+
+Vous découvrez dans un coin une fleur à laquelle personne n'a prêté attention.
+
+5
+
+primogem
+
+L'espoir, un joli mot 
+
+Découvrez une nouvelle vie dans une certaine ruine.
+
+5
+
+primogem
+
+Même César ne pourrait pas acheter ça 
+
+Obtenez la plus grande œuvre d'art du monde.
+
+5
+
+primogem
+
+Chassanion 
+
 Vainquez la légende locale : Chassanion.
 
-Corrouge lalame magique 4.2
-Vainquez la légende locale : Corrouge la lame
-magique.
+5
 
-Rocky Avildsen 4.2
+primogem
+
+Corrouge la lame magique 
+
+Vainquez la légende locale : Corrouge la lame magique.
+
+5
+
+primogem
+
+Rocky Avildsen 
+
 Vainquez la légende locale : Rocky Avildsen.
 
-liam 4.2
+5
+
+primogem
+
+Liam 
+
 Vainquez la légende locale : Liam.
 
-Deianeirade Snezhevna 42
-Vainquez la légende locale : Deianeira de
-Snezhevna.
+5
 
-Undramehumain 43
-Soyez témoin de histoire de la famille de Leroy.
+primogem
 
-Seigneurs de Chizhang 4.4
-Vainquez les légendes locales : les Seigneurs de
-Chizhang.
+Deianeira de Snezhevna 
 
-Lesecretsupréme 4.4
+Vainquez la légende locale : Deianeira de Snezhevna.
+
+5
+
+primogem
+
+Un drame humain 
+
+Soyez témoin de l'histoire de la famille de Leroy.
+
+5
+
+primogem
+
+Seigneurs de Chizhang 
+
+Vainquez les légendes locales : les Seigneurs de Chizhang.
+
+5
+
+primogem
+
+Le secret suprême 
+
 Trouvez le trésor de Guhua.
 
-La véritable maitrise dela lance et del'épée 4.4
-Réussissez toutes les 6preuves dans la Salle de la
-montagne céleste.
+5
 
-lecontedelaruine 4.4
-Résolvez le mystére laissé par les ancétres.
+primogem
 
-Propre comme un moraneuf 4.4
-Achevez la restauration et la reconstruction de six
-zones en ruine.
+La véritable maîtrise de la lance et de l'épée 
 
-Lafindelignorance 4.4
+Réussissez toutes les épreuves dans la Salle de la montagne céleste.
+
+5
+
+primogem
+
+Le conte de la ruine 
+
+Résolvez le mystère laissé par les ancêtres.
+
+5
+
+primogem
+
+Propre comme un mora neuf 
+
+Achevez la restauration et la reconstruction de six zones en ruine.
+
+5
+
+primogem
+
+La fin de l'ignorance 
+
 Détruisez les 7 sources de l'effluence.
 
-Pour toucher le visage du ciel 4.4
-Utilisez I'@nergie mystique pour vous libérer
-temporairement des chaines de la terre.
+5
 
-Un simple caillou... 4.4
-.. Doit néanmoins étre placé avec soin.
+primogem
 
-Thé dans la bouilloire 4.4
-Aidez l'oncle Luo 4 réparer Ia bouilloire 4 thé du
-Village de Qiaoying.
+Pour toucher le visage du ciel 
 
-Aquandle printemps oul'automne? 4.4
-arbre ancien revient a Ia vie.
+Utilisez l'énergie mystique pour vous libérer temporairement des chaînes de la terre.
 
-« Et la viande tranchée maintenant?» 4.4
-Trouvez I'habitat de l'ancienne tortue litojade.
+5
 
-De longues journées dans leroyaume 4.4
-Remplissez toutes les anciennes tasses de thé
-entre les montagnes et les riviéres du Vallon
+primogem
+
+Un simple caillou... 
+
+... Doit néanmoins être placé avec soin.
+
+5
+
+primogem
+
+Thé dans la bouilloire 
+
+Aidez l'oncle Luo à réparer la bouilloire à thé du Village de Qiaoying.
+
+5
+
+primogem
+
+À quand le printemps ou l'automne ? 
+
+L'arbre ancien revient à la vie.
+
+5
+
+primogem
+
+« Et la viande tranchée maintenant ? » 
+
+Trouvez l'habitat de l'ancienne tortue litojade.
+
+5
+
+primogem
+
+De longues journées dans le royaume 
+
+Remplissez toutes les anciennes tasses de thé entre les montagnes et les rivières du Vallon Chenyu.
+
+5
+
+primogem
+
+Chute de carpe séparant les nuages 
+
+Entrez dans la Halte de la carpe, scellée depuis si longtemps, avec Lingyuan.
+
+5
+
+primogem
+
+Le retour des cinq lames 
+
+Trouvez les cinq « lames perdues de Guhua ».
+
+5
+
+primogem
+
+« Je te l'enseignerai, si tu le souhaites. » 
+
+Battez 3 fois un disciple non-officiel du Clan Guhua qui a quelque chose de spécial.
+
+5
+
+primogem
+
+Le voile des fresques 
+
+Soyez témoin de quatre fresques.
+
+5
+
+primogem
+
+Briser le fer et la pierre 
+
+Aidez les Millelithes à enquêter sur les activités illégales du Gang de sels-fers.
+
+5
+
+primogem
+
+Panoramas du Vallon Chenyu 
+
+Obtenez une édition limitée d'un album commémoratif « Randonnée à Chenyu ».
+
+5
+
+primogem
+
+Les rêves de Xiangjun 
+
+Découvrez le secret de la fleur d'aromesprit.
+
+5
+
+primogem
+
+Acceptation rapide 
+
+Vous en avez beaucoup appris sur l'élevage des bêtes de somme... Mais est-ce vraiment utile ?
+
+5
+
+primogem
+
+Source d'énergie de secours non cachée 
+
+Redémarrez le mécanisme des ruines dans le Vallon Chenyu.
+
+5
+
+primogem
+
+À la construction de la longue muraille 
+
+Trouvez les objets laissés par les Millelithes.
+
+5
+
+primogem
+
+Sur la Bishui 
+
+Écoutez la beauté de la Rivière Bishui grâce aux chants des bateaux.
+
+5
+
+primogem
+
+La carpe bondit, le paradis s'ouvre 
+
+Soyez témoin du saut de la carpe dorée dans la vallée.
+
+5
+
+primogem
+
+Esprits à la dérive, hélas, dans l'eau 
+
+Découvrez le secret de l'Antre jadéique.
+
+5
+
+primogem
+
+« Jade, ô Jade, accorde mon souhait... » 
+
+Récupérez le dernier Jade votif.
+
+5
+
+primogem
+
+Comme vu de loin 
+
+Montez au ciel avec les rêves du passé.
+
+5
+
+primogem
+
+Ancienne chanson shamanique 
+
+Soyez témoin de l'achèvement du rituel de la pluie de jade.
+
+5
+
+primogem
+
+Le chemin isolé 
+
+Retournez à la Halte de la carpe.
+
+5
+
+primogem
+
+Le miracle secret 
+
+Découvrez le secret du jade du Mont Laixin.
+
+5
+
+primogem
+
+Cineas 
+
+Vainquez la légende locale : Cineas.
+
+5
+
+primogem
+
+À fond les torrents 
+
+Utilisez les torrents invoqués par Scylla pour atteindre un emplacement pour la première fois.
+
+5
+
+primogem
+
+« I ask of thee... Art thou mankind ? » 
+
+Récupérez un mystérieux grimoire pour la première fois.
+
+5
+
+primogem
+
+#{F#L'amie}{M#L'ami} des livres 
+
+Utilisez des grimoires pour activer toutes les bibliothèques mystérieuses du Château fané.
+
+5
+
+primogem
+
+« L'étranger volant » 
+
+Permettez à la partition perdue de revoir la lumière du jour.
+
+5
+
+primogem
+
+Pas si bien cachés que ça... 
+
+Récupérez les quatre trésors que Juliano a laissés.
+
+5
+
+primogem
+
+#Le devoir {F#d'une maîtresse}{M#d'un maître} 
+
+Apportez de la nourriture fraîche à Osse.
+
+5
+
+primogem
+
+La dixième muse 
+
+Maîtrisez la puissance de la Symphonie.
+
+5
+
+primogem
+
+Odyssée sur le mur 
+
+Terminez la prestation sur scène dans le Château fané.
+
+5
+
+primogem
+
+« Dites aux citoyens... » 
+
+« ... Que nous demeurons ici, par obéissance à nos serments... »
+
+5
+
+primogem
+
+Mystérieuse forme du temps 
+
+Rendez hommage au son de la cloche.
+
+5
+
+primogem
+
+Contra mundum 
+
+Le roi des Élémentosaures, scellé depuis des millénaires, se réveille...
+
+5
+
+primogem
+
+Tous les chemins mènent à Rema 
+
+Visitez la cité éternelle stagnante.
+
+5
+
+primogem
+
+Diadoque tardif 
+
+À vous de réaliser son souhait...
+
+5
+
+primogem
+
+Lent retour 
+
+Aidez Giustino à retourner dans son village natal.
+
+5
+
+primogem
+
+Invincible 
+
+Détruisez tous les piliers rocheux d'une Hypostase Géo avant qu'elle ne se régénère.
+
+10
+
+primogem
+
+Destruction des prismes 
+
+Détruisez tous les prismes d'une Hypostase Électro avant qu'elle ne se régénère.
+
+10
+
+primogem
+
+C'est un énorme papillon cristallin Anémo... 
+
+Absorbez tous les orbes de vent d'une Hypostase Anémo avant qu'elle ne se régénère.
+
+10
+
+primogem
+
+Non représentative du produit final 
+
+Éliminez une Hypostase Anémo qui a effectué 4 phases de conversion élémentaire.
+
+10
+
+primogem
+
+L'énorme statue et moi 
+
+Paralysez un Gardien des ruines en ciblant son point faible.
+
+5
+
+primogem
+
+Passe décisive 
+
+Ôtez un Pyroblob des mains d'un Grenadier Brutocollinus Pyro.
+
+5
+
+primogem
+
+Rien qu'en une attaque 
+
+Éliminez un ennemi grâce aux DGT de l'effet Brise-glace.
+
+5
+
+primogem
+
+Maître Brutocollinus 
+
+Éliminez un Chef Brutorocheux avant la fin de sa forme démoniaque.
+
+10
+
+primogem
+
+Bon appétit 
+
+Faites en sorte que 4 personnages de votre équipe soient rassasiés.
+
+10
+
+primogem
+
+Qui aime bien châtie bien 
+
+Infligez plus de 5 000 pts de DGT CRIT.
+
+5
+
+primogem
+
+Qui aime bien châtie bien 
+
+Infligez plus de 20 000 pts de DGT Crit.
+
+10
+
+primogem
+
+Qui aime bien châtie bien 
+
+Infligez plus de 50 000 pts de DGT CRIT.
+
+20
+
+primogem
+
+Les Quatre Fantastiques 
+
+Terminez un donjon avec 4 personnages du même type élémentaire.
+
+10
+
+primogem
+
+Rien qu'un arbre 
+
+Vainquez un Arbre congelé sans détruire le point faible de sa corolle.
+
+10
+
+primogem
+
+Super chaud 
+
+Vainquez un Arbre enflammé sans détruire le point faible de sa corolle.
+
+10
+
+primogem
+
+Entre étrangers 
+
+Vainquez Tartaglia sans qu'aucun personnage de l'équipe ne soit marqué et touché par l'attaque qui suit.
+
+10
+
+primogem
+
+Pénalty 
+
+Impossible de déterrer les Pyroblobs à certains endroits...
+
+5
+
+primogem
+
+Corrosion des forces 
+
+Brisez la barrière d'une Hypostase Électro.
+
+5
+
+primogem
+
+... Lézard, Spock. 
+
+L'un de vos personnages s'est fait avoir par chacun des éléments du jeu pierre-feuille-ciseaux à la suite.
+
+5
+
+primogem
+
+Non-respect des normes de construction 
+
+Faites tomber la même Hypostase Géo trois fois en détruisant le pilier rocher sur lequel elle se trouve.
+
+5
+
+primogem
+
+Respect de l'architecture 
+
+Forcez une Hypostase Géo à se régénérer sans détruire aucun de ses piliers rocheux.
+
+5
+
+primogem
+
+Le vent va, le vent vient 
+
+Absorbez au moins 10 orbes élémentaires générés par une Hypostase Anémo au cours du même combat.
+
+5
+
+primogem
+
+Fusion du noyau 
+
+Détruisez la graine brûlante créée par un Arbre enflammé.
+
+5
+
+primogem
+
+Vertigo 
+
+Détruisez le point faible de la corolle d'un Arbre congelé quand il effectue son attaque tournoyante.
+
+5
+
+primogem
+
+Collecte de dette 
+
+Vainquez un Usurier Pyro lorsqu'il est en mode furtif.
+
+5
+
+primogem
+
+« Je... fonds... » 
+
+Vainquez un Mage cryoluciole quand toutes ses Cryolucioles sont encore présentes.
+
+5
+
+primogem
+
+Un des Quatre Vents, vraiment ? 
+
+Vainquez un Frappeur Anémo après avoir déclenché ses contre-attaques absorbantes de chaque élément.
+
+5
+
+primogem
+
+Touche-touche 
+
+Utilisez un bouclier pour contrer un certain type d'attaque percutante de Géosaure.
+
+5
+
+primogem
+
+Ricochet ! 
+
+Utilisez un bouclier pour contrer le jet de roche primitive d'un Géosaure.
+
+5
+
+primogem
+
+C'est à vous ça ? 
+
+Utilisez un bouclier de l'élément Géo ou du même élément pour contrer le jet de roche primitive d'un Géosaure antique et infliger des DGT considérables.
+
+5
+
+primogem
+
+Une âme persévérante 
+
+Vainquez Azhdaha sous toutes ses formes.
+
+20
+
+primogem
+
+« Il a suffi d'un coup de pelle » 
+
+Éliminez une Hypostase Cryo dans l'état affaibli.
+
+5
+
+primogem
+
+De la neige jusqu'au cou 
+
+Éliminez une Hypostase Cryo qui s'est régénérée trois fois.
+
+5
+
+primogem
+
+Si je cours assez vite... 
+
+Vainquez une Lame oni sans vous faire toucher par les attaques de ses spectres.
+
+10
+
+primogem
+
+Un vrai combat équitable 
+
+Vainquez une Lame oni sans déclencher sa parade « Visage de la mort ».
+
+5
+
+primogem
+
+On n'est jamais mieux servi... 
+
+Vainquez un Géosaure antique sans renvoyer son « Jet de roche primitive ».
+
+5
+
+primogem
+
+Ouh, ça brûle ! 
+
+Vainquez une Hypostase Pyro s'étant rallumée deux fois.
+
+5
+
+primogem
+
+Smells like animal spirit 
+
+Vainquez une Hypostase Pyro après avoir subi 3 attaques d'affilée de ses Mimiqueurs.
+
+5
+
+primogem
+
+Rupture du noyau 
+
+Vainquez une Matrice mécanique perpétuelle après avoir paralysé ses 4 types de Sentinelles des ruines.
+
+10
+
+primogem
+
+Accès interdit à toute machine non autorisée 
+
+Vainquez une Matrice mécanique temporelle sans vaincre aucune de ses Sentinelles des ruines.
+
+10
+
+primogem
+
+Vaincre le feu par le feu 
+
+Vaincre un Oni des mers - Menace de feu lorsque son arme est infusée d'élément Pyro.
+
+5
+
+primogem
+
+Éclair vs éclair 
+
+Vaincre un Oni des mers - Danse d'éclairs lorsque son arme est infusée d'élément Électro.
+
+5
+
+primogem
+
+Tonnerre dans l'est 
+
+Faites-vous toucher par la foudre invoquée par un Brutoviandu avec hache Électro...
+
+10
+
+primogem
+
+Nettoyage à sec 
+
+Vainquez l'Hypostase Hydro sans détruire une seule de ses invocations d'eau, sauf lorsqu'elle restaure ses PV.
+
+5
+
+primogem
+
+Arme bio-océanique 
+
+Faites-vous toucher par un certain animal créé par l'Hypostase Hydro...
+
+5
+
+primogem
+
+Attention non-réciproque 
+
+Vainquez une Manifestation du tonnerre sans qu'elle se verrouille sur vous.
+
+5
+
+primogem
+
+La chute du tonnerre 
+
+Vainquez une Manifestation du tonnerre pendant qu'elle est en vol.
+
+5
+
+primogem
+
+Rivières glacées, sorcière écarlate 
+
+Vainquez Signora sans détruire ni ses cœurs de flamme ni ses yeux de givre.
+
+10
+
+primogem
+
+La fin des inugami 
+
+Détruisez deux Crânes de faille en peu de temps.
+
+5
+
+primogem
+
+Atterrissage d'urgence 
+
+Faites tomber un Élémentosaure abyssal en pleine grimpette.
+
+5
+
+primogem
+
+Quel œil ! 
+
+Abattez uniquement votre véritable ennemi.
+
+5
+
+primogem
+
+Attention, chien méchant ! 
+
+Vainquez un Limier de faille hurlant.
+
+5
+
+primogem
+
+Pratiquement inoffensif... 
+
+Vainquez un Spectre qui n'a pas accumulé de fureur.
+
+5
+
+primogem
+
+Lumière débordante 
+
+Détruisez 2 concrétions visqueuses avec 1 lumière florissante lors d'un combat contre le Serpent des ruines.
+
+5
+
+primogem
+
+« Han tire le premier... » 
+
+Donc... Pas de couteau dans une fusillade...
+
+5
+
+primogem
+
+L'opportuniste 
+
+Soyez témoin des luttes intestines entre les Fongus.
+
+5
+
+primogem
+
+#« Viens voir {F#maman}{M#papa} » 
+
+Abattez un Fongus en plein air.
+
+5
+
+primogem
+
+La rencontre du vent et de la rosée 
+
+Laissez l'Arbre foudroyé effectuer une explosion électrique de contact.
+
+5
+
+primogem
+
+Jamais deux sans trois ? 
+
+Soyez témoin des trois puissantes compétences du Champieffroi panaché activé.
+
+5
+
+primogem
+
+Coucouche panier ! 
+
+Interrompez la charge d'un Dragon cataclysmique en attaquant le noyau sur sa tête.
+
+5
+
+primogem
+
+Nanomachines, fiston ! 
+
+Vainquez un Champieffroi panaché activé pendant qu'il lance un sort puissant...
+
+5
+
+primogem
+
+Brûle, mon cosmos ! 
+
+Assistez à l'attaque overclockée d'un Algorithme de semi-intransition matriciaire d'observation en néo-réseau.
+
+5
+
+primogem
+
+Hop, sans les yeux ! 
+
+Vainquez une Structure primale sans désactiver sa dissimulation.
+
+5
+
+primogem
+
+L'utilisation magique de l'azote 
+
+Pendant un défi d'Hypostase Dendro, faites en sorte que trois zistes réparateurs soient activés simultanément.
+
+5
+
+primogem
+
+Plus dure sera la chute 
+
+Brûlez la coque de liane d'une Hypostase Dendro pendant qu'elle effectue une attaque plongeante.
+
+5
+
+primogem
+
+Ça tombera pas plus bas... 
+
+Utilisez les matrices élémentaires pour surcadencer et immobiliser Shouki no Kami.
+
+10
+
+primogem
+
+Entre vie et mort... 
+
+Même au bord de la destruction, un retour est toujours sur les cartes...
+
+10
+
+primogem
+
+Celui qui contrôle l'épice... 
+
+Utilisez une balle de craquelure pour déclencher une Dispersion et annuler l'état flottant d'un Wenut de Setekh.
+
+5
+
+primogem
+
+Le silence est d'or 
+
+Détruisez tous les anneaux élémentaires pour paralyser un Lustrateur inique lorsqu'il commence à canaliser son attaque.
+
+5
+
+primogem
+
+Le chenal entre deux rivières 
+
+Perdez dans le duel contre la légendaire Raie prédatrice...
+
+5
+
+primogem
+
+♪ Quand votre cœur fait boum ♪ 
+
+Utilisez des attaques pneuma ou ousia pour interrompre l'état de stress d'un Primus briseur.
+
+5
+
+primogem
+
+L'eau, ça brûle ? 
+
+Essayer constamment de geler les Fantasmes Hydro croupis...
+
+5
+
+primogem
+
+Tempête funéraire 
+
+Utilisez une attaque pneuma pour affaiblir le tourbillon de Coppelia lors de l'apogée de sa performance.
+
+5
+
+primogem
+
+Lié par la glace 
+
+Utilisez une attaque ousia pour annuler le bouclier de Coppelius lors de l'apogée de sa performance.
+
+5
+
+primogem
+
+Le roi est mort, vive le roi ! 
+
+Interrompez le couronnement enflammé de l'Empereur du feu ferreux.
+
+5
+
+primogem
+
+Fuuuuusiooooon ! 
+
+Empêchez le Tulpa Hydro d'absorber des Demi-tulpas deux fois en un seul défi.
+
+5
+
+primogem
+
+Le Guide du voyageur galactique 
+
+Entrez deux fois dans le ventre de la bête en un seul défi.
+
+10
+
+primogem
+
+Une impulsion de glace et de vent 
+
+Cherchez le lien entre les Suannis solitaires et l'élément Cryo.
+
+5
+
+primogem
+
+« Je crains les Rémuriens... » 
+
+« ... Même lorsqu'ils apportent des instruments de musique. »
+
+5
+
+primogem
+
+Les mêmes erreurs 
+
+« Le combat à distance, c'est notre point fort... Hein ? »
+
+5
+
+primogem
+
+Après le banquet 
+
+Atteignez l'autre côté du banquet rouge sang, avec la lune funeste pour témoin.
+
+10
+
+primogem
+
+Le début d'un long voyage 
+
+Terminez les quêtes d'Archons de Mondstadt.
+
+20
+
+primogem
+
+Le voyageur qui attrapa le vent 
+
+Terminez « Le voyageur qui attrapa le vent ».
+
+10
+
+primogem
+
+Pour un avenir sans larmes 
+
+Terminez « Pour un avenir sans larmes ».
+
+10
+
+primogem
+
+Chanson du dragon et de la liberté 
+
+Terminez « Chanson du dragon et de la liberté ».
+
+10
+
+primogem
+
+Que le vent vous guide 
+
+Obtenez la maîtrise de l'élément Anémo.
+
+5
+
+primogem
+
+... Ou une nouvelle tempête ? 
+
+Chassez le dragon de Mondstadt.
+
+5
+
+primogem
+
+L'esprit d'un chevalier 
+
+Obtenez le titre de chevalier honoraire de l'Ordre de Favonius.
+
+5
+
+primogem
+
+Le « problème » de l'Ordre de Favonius 
+
+Vous ne parvenez pas à vous emparer de la lyre sacrée, mais faites la rencontre d'un des « problèmes » de l'Ordre de Favonius.
+
+5
+
+primogem
+
+Le vent change toujours de direction 
+
+Faites-vous sauver par Dvalin.
+
+5
+
+primogem
+
+La terre mystique aux mille rochers 
+
+Terminez « La terre mystique aux mille rochers ».
+
+10
+
+primogem
+
+Adieu à l'Exuvia 
+
+Terminez « Adieu à l'Exuvia ».
+
+10
+
+primogem
+
+En pays étranger 
+
+#Soyez {M#sauvé}{F#sauvée} par quelqu'un lorsque vous étiez à « l'attrape-touristes du coin ».
+
+5
+
+primogem
+
+Qu'est-il arrivé à ces Brutocollinus ? 
+
+Jouez une fois avec Ming.
+
+5
+
+primogem
+
+Parfum exquis 
+
+Découvrez le baume préféré du Souverain de la Roche.
+
+5
+
+primogem
+
+C'est plus grand à l'intérieur ! 
+
+Nettoyez la théière de Madame Ping.
+
+5
+
+primogem
+
+« Un aventurier courageux » 
+
+Engagez d'autres personnes pour faire le travail à votre place sans lésiner sur les moras.
+
+5
+
+primogem
+
+Restauration des monuments historiques 
+
+Vous ne trouvez pas la coco-chèvre, mais vous réussissez à réparer un monument ancien.
+
+5
+
+primogem
+
+Un long adieu 
+
+Faites toutes les préparations nécessaires pour le rituel de l'ascension.
+
+5
+
+primogem
+
+Blob en sucre 
+
+Préparez de délicieux Blobs confits.
+
+5
+
+primogem
+
+#{M#Monté}{F#Montée} au ciel 
+
+Atteignez le « palais dans le ciel ».
+
+5
+
+primogem
+
+Chant des lys 
+
+Chantez une chanson de Mondstadt aux lys vernis...
+
+5
+
+primogem
+
+On se reverra... 
+
+Battez Tartaglia.
+
+5
+
+primogem
+
+Déraillage 
+
+Battez le Dieu du Vortex.
+
+5
+
+primogem
+
+Adieu final 
+
+Participez au rituel de l'ascension.
+
+5
+
+primogem
+
+Une étoile en approche 
+
+Terminez « Une étoile en approche ».
+
+5
+
+primogem
+
+Pirates !   
+
+Jouez aux pirates avec Lulu, Fei et Petit Meng.
+
+5
+
+primogem
+
+Quête: Des pirates à Liyue ! 
+
+Check-list:
+
+
+Little Meng
+
+Little Lulu
+
+Little Fei
+Le chef et le pêcheur   
+
+Terminez « Pêcheur solitaire » et « Le dilemme de Yanxiao ».
+
+5
+
+primogem
+
+Quête: Pêcheur solitaire Le dilemme de Yanxiao 
+
+Aux immortels les affaires des dieux...   
+
+Aidez Zhihua à repérer 5 signes favorables à sa vie amoureuse dans « Bon augure ».
+
+5
+
+primogem
+
+Quête: Bon augure 
+
+Check-list:
+
+
+Seeing that Granny Shan has good business
+
+Leaving the pigeons alone
+
+Leaving the dogs alone
+
+Leaving the cat and fish alone
+
+Leaving the leaves alone
+Toujours dans mon cœur   
+
+Terminez 5 fois « Emporté par le vent ».
+
+5
+
+primogem
+
+Quête: Emporté par le vent 
+
+Encore un étage   
+
+Aidez Huai'an à réparer l'escalier de l'Auberge Wangshu.
+
+5
+
+primogem
+
+Quête: Tous les chemins mènent à Wangshu 
+
+#La chance {M#du débutant}{F#de la débutante}   
+
+Choisissez la pierre brute qui a le plus de valeur dès la première tentative.
+
+5
+
+primogem
+
+Quête: Diamant brut 
+
+Mes plus plates excuses   
+
+Excusez-vous auprès de Timmy.
+
+5
+
+primogem
+
+Quête: Pardon Timmy ! 
+
+Ça se tient...   
+
+Apportez le matériel pour fabriquer un mannequin de bois à Herman.
+
+5
+
+primogem
+
+Quête: Les limites d'un aventurier 
+
+« Cher papa... »   
+
+Écoutez l'histoire de Timmy.
+
+5
+
+primogem
+
+Quête: Lettre et soucis 
+
+Remède miraculeux   
+
+Soignez la maladie d'Anna.
+
+5
+
+primogem
+
+Quête: Remise sur pied 
+
+Au nom de Favonius   
+
+Soyez témoin de l'histoire de Gillianna.
+
+5
+
+primogem
+
+Quête: Cadeau-surprise 
+
+Check-list:
+
+
+Marjorie
+
+Quinn
+
+Sara
+
+Vile
+Aventures studieuses   
+
+Terminez « Objet perdu et » « Pilleurs & reliques ».
+
+5
+
+primogem
+
+Quête: Objet perdu Pilleurs & reliques 
+
+Rêve et réalité   
+
+Terminez « Problèmes au travail » et obtenez le recueil de poésie de Linling.
+
+5
+
+primogem
+
+Quête: Problèmes au travail 
+
+Un vieil ami   
+
+Terminez « Mais où est passé Chang ? ».
+
+5
+
+primogem
+
+Quête: Mais où est passé Chang ? 
+
+Ce roman est génial !   
+
+Jetez un œil au manuscrit de Chang le Neuvième.
+
+5
+
+primogem
+
+Quête: Ce roman est génial ! 
+
+Aux mortels les affaires des hommes...   
+
+Gâchez 4 signes d'une histoire d'amour naissante.
+
+5
+
+primogem
+
+Quête: Bon augure 
+
+Check-list:
+
+
+Killing the pigeons
+
+Scaring the dogs away
+
+Harvesting or killing the fish or the cat
+
+Burning or blowing away the leaves
+Ce n'est pas un casse-croûte d'urgence.   
+
+Mangez le plat que vous êtes censé livrer au cours de « Livraison à domicile ».
+
+5
+
+primogem
+
+Quête: Livraison à domicile 
+
+Caché en pleine vue   
+
+Aidez Sango et Ryuuji à résoudre l'affaire.
+
+5
+
+primogem
+
+Quête: L'affaire du Bantan Sango : Le dénouement 
+
+N'existe-t-il qu'une vérité...?   
+
+Soyez témoin de l'histoire de Ryuuji.
+
+5
+
+primogem
+
+Quête: L'affaire du Bantan Sango : Les dernières touches 
+
+Liyue Ichiban   
+
+Soignez Tang Wen à l'aide de délicieux plats.
+
+5
+
+primogem
+
+Quête: Un mets absolument unique 
+
+Du peps, encore ?   
+
+Apprenez de nouvelles façons de cuisiner auprès de Xiangling.
+
+5
+
+primogem
+
+Quête: Les Gourmets suprêmes : Une idée de génie 
+
+Repas pour deux   
+
+Aidez Xudong et Kamei Munehisa à cuisiner un plat.
+
+5
+
+primogem
+
+Quête: Les Gourmets suprêmes : Concours culinaire 
+
+Check-list:
+
+
+Xudong
+
+Kamei
+Une question de régime   
+
+Aidez Parvaneh à réviser toutes les recettes.
+
+5
+
+primogem
+
+Quête: Les Gourmets suprêmes : Quiz gourmand 
+
+Samouriz   
+
+Aidez Kamei Munehisa à collecter tous les ingrédients des camps de chaque côté.
+
+5
+
+primogem
+
+Quête: Les Gourmets suprêmes : La cuisine de l'extrême 
+
+Check-list:
+
+
+Left
+
+Right
+Pardon pour le dérangement !   
+
+Recevez la plainte de Konda Densuke au service après-vente.
+
+5
+
+primogem
+
+Quête: Service après-vente 
+
+Gourmet samouraï 
+
+Soyez témoin de l'admission de Kamei Munehisa parmi les Gourmets suprêmes.
+
+5
+
+primogem
+
+Hé, il y a quelqu'un ? 
+
+Découvrez un passage secret à Ritou.
+
+5
+
+primogem
+
+Commentaire éditorial   
+
+Aidez Shigeru et Junkichi à retrouver la bonne voie.
+
+5
+
+primogem
+
+Quête: Un roman... familier ? Un roman... problématique ? 
+
+Vous devriez ouvrir un dojo pour les doushins   
+
+Aidez Asakura à s'entraîner cinq fois.
+
+5
+
+primogem
+
+Quête: Un art à peaufiner L'entraînement ne s'arrête jamais ! 
+
+Devine qui c'est ? 
+
+Découvrez qui est vraiment Zhenyu.
+
+5
+
+primogem
+
+Au moins, il y a une fin 
+
+Écoutez Junkichi terminer son histoire.
+
+5
+
+primogem
+
+Son chat et elle 
+
+Suivez Neko jusqu'au Mont Yougou pour trouver la piste d'Hibiki.
+
+5
+
+primogem
+
+Hein, ça a mordu ?   
+
+Pêchez des choses étranges avec Kayvan...
+
+5
+
+primogem
+
+Quête: Le splendide hameçon ? 
+
+Check-list:
+
+
+Mushroom Version
+
+Special Bird Eggs Version
+
+Zaytun Peach Version
+Fongus de Kalimi   
+
+Regardez Hatim faire fortune lors d'une transaction !
+
+5
+
+primogem
+
+Quête: Repas d'or et moras à foison 
+
+Check-list:
+
+
+Mora Meat
+
+Butter Chicken
+
+Pile 'Em Up
+Quand la fortune fait toc toc   
+
+Donnez du cidre de pomme à Hatim.
+
+5
+
+primogem
+
+Quête: Repas d'or et moras à foison 
+
+Check-list:
+
+
+Mora Meat
+
+Butter Chicken
+
+Pile 'Em Up
+Attrape-miaou si tu peux !   
+
+Aidez Sareh à retrouver tous les chats.
+
+5
+
+primogem
+
+Quête: Miaou... Miaou, miaou ? Miaou ! Miaou... 
+
+Check-list:
+
+
+Lale
+
+Nargis
+
+Rozan
+Principes arithmétiques 
+
+Aidez Garcia à perfectionner sa machine.
+
+5
+
+primogem
+
+Le travail, c'est la santé...   
+
+Aidez Hanbei à cueillir plus de champignons.
+
+5
+
+primogem
+
+Quête: Attaché en pays étranger 
+
+C'est thérapeutique !   
+
+Réalisez les souhaits des 3 patients.
+
+5
+
+primogem
+
+Quête: Ordres du médecin 
+
+Check-list:
+
+
+Talk to Gurgen (Help with weeds)
+
+Talk to Azra (Give Sugar x1)
+
+Talk to Aftab (Gave 1x delicious steak)
+Par les racines   
+
+Trouvez et vainquez la Fleur mensongère en fuite.
+
+5
+
+primogem
+
+Quête: Quand les fleurs s'ouvrent 
+
+Date du départ 
+
+Récupérez la lettre d'Alexandra...
+
+5
+
+primogem
+
+Pas la faute des moras ! 
+
+Assistez aux aventures des Gourmets suprêmes à Sumeru...
+
+5
+
+primogem
+
+À la mesure du monde...   
+
+Aidez Farghani à effectuer des mesures.
+
+5
+
+primogem
+
+Quête: Celui qui mesure le monde ! 
+
+Le temps des réponses 
+
+Soyez témoin de l'histoire d'Alrani à Sumeru.
+
+5
+
+primogem
+
+Circonstance aléatoire de la floraison d'une rose 
+
+Aidez Collei à s'occuper de sa rose sumérienne.
+
+5
+
+primogem
+
+Rêve ô rêve, où es-tu ? 
+
+Soyez témoin de l'histoire de Javi et du rêve.
+
+5
+
+primogem
+
+Une demande optionnelle   
+
+Trouvez tous les objets que Gulabgir a fabriqués pour ses serpents.
+
+5
+
+primogem
+
+Quête: Projet précieux 
+
+Check-list:
+
+
+Fungi Camp (Strange Bead)
+
+Rockslide Camp (Shabby Rack)
+
+Tree Nest Camp (Strange Tiny Hats)
+Le p'tit bateau qui va sur l'eau ♪   
+
+Aidez Rafiq à tester avec succès la résistance de la coque de son bateau.
+
+5
+
+primogem
+
+Quête: Conversion de problème : Problème de charge 
+
+Un souci ? Quel souci ?   
+
+Dégustez trois plats de Jafar.
+
+5
+
+primogem
+
+Quête: Alimentation et apprentissage 
+
+Check-list:
+
+
+Mint
+
+Potato
+
+Raw Meat
+La tête pensante de Sumeru   
+
+Répondez correctement à 6 questions différentes.
+
+5
+
+primogem
+
+Quête: Petites questions sur l'Académie 
+
+Check-list:
+
+
+Amurta
+
+Spantamad
+
+Divine Tree
+
+Wall of Samiel
+
+Sumpter Beast
+
+Fungi
+Attention, ça glisse !   
+
+Glissez pendant une course contre Hilmi...
+
+5
+
+primogem
+
+Quête: Cours, Hilmi, cours ! 
+
+Une vraie écriture de médecin   
+
+Aidez Maruf à interpréter correctement l'ordonnance.
+
+5
+
+primogem
+
+Quête: Rareté de panacée 
+
+Check-list:
+
+
+Headache
+
+Stomachache
+
+Can't see well
+Fragrance durable 
+
+Assistez à l'histoire de Nermin.
+
+5
+
+primogem
+
+À la recherche d'une « lame sœur » 
+
+Soyez témoin de l'histoire de Lan et du Glaive occulte.
+
+5
+
+primogem
+
+Marcher à l'horizon...? 
+
+Soyez témoin de l'histoire de Sun Yu.
+
+5
+
+primogem
+
+Bureau sur rue 
+
+Soyez témoin des diverses affaires de la Cour de Fontaine.
+
+5
+
+primogem
+
+Moi, c'est le goût 
+
+Préparez un mélange spécial de café.
+
+5
+
+primogem
+
+Critique esthétique 
+
+Écoutez les théories de Depierris concernant l'esthétique.
+
+5
+
+primogem
+
+Jeux d'enfants 
+
+Jouez avec les enfants et assistez à leur histoire.
+
+5
+
+primogem
+
+Une bourrasque soudaine 
+
+Soyez témoin du travail laborieux d'Iaune.
+
+5
+
+primogem
+
+Nouvelle inspiration ! Nouveaux produits ! 
+
+Aidez Heinry à développer 3 nouveaux types de fonta et goûtez une boisson expérimentale.
+
+5
+
+primogem
+
+Qui a dit la vérité ? 
+
+Vous avez aidé Guijarro à trouver de l'inspiration...?
+
+5
+
+primogem
+
+La conformiste 
+
+Soyez témoin d'une certaine histoire concernant la lumière, l'ombre et l'hydrologie...
+
+5
+
+primogem
+
+Dans les ruines des rêves... 
+
+Soyez témoin de l'histoire du club des rêvasseurs.
+
+5
+
+primogem
+
+Vous ne perdez rien à part votre temps ! 
+
+Résolvez l'énigme des deux cadrans solaires.
+
+5
+
+primogem
+
+Entretien avec une ancienne divinité 
+
+Renseignez-vous sur l'histoire d'une ancienne divinité.
+
+5
+
+primogem
+
+Chi et dragon 
+
+Renseignez-vous sur l'histoire de Chi.
+
+5
+
+primogem
+
+Fléau de la guerre 
+
+Vendez un trésor trouvé dans des ruines anciennes pour un bon prix.
+
+5
+
+primogem
+
+L'ombre du Lac Luhua 
+
+Aidez Vermeer à peindre le paysage de ses rêves.
+
+5
+
+primogem
+
+Joueur 0 
+
+Jouez avec Jiang le puéril.
+
+5
+
+primogem
+
+La petite maison dans les bois 
+
+Soyez témoin de l'histoire de la famille de Yuan Hong.
+
+5
+
+primogem
+
+Les clés du destin 
+
+Terminez la quête « Le Gardien du Rameau ».
+
+5
+
+primogem
+
+Le voleur, le fou et le sombre mystère 
+
+Découvrez le sort du Maître voleur.
+
+5
+
+primogem
+
+À la croisée des destins 
+
+Échappez-vous des ruines étranges.
+
+5
+
+primogem
+
+À la barbe du pouvoir des dieux 
+
+Apprendre ce que sont « les fils du destin »...
+
+5
+
+primogem
+
+Fin de la conversation 
+
+Vainquez l'Apôtre de l'Abîme.
+
+5
+
+primogem
+
+Nous serons enfin réunis 
+
+Terminez « Nous serons enfin réunis ».
+
+5
+
+primogem
+
+En route pour Inazuma 
+
+Obtenez votre chance de rejoindre Inazuma à bord de l'Alcor.
+
+5
+
+primogem
+
+En garde ! 
+
+Remportez votre première victoire dans le Clash du Crux.
+
+5
+
+primogem
+
+Vent d'automne et feuilles écarlates 
+
+Terminez « Vent d'automne et feuilles écarlates ».
+
+10
+
+primogem
+
+Contre vents et marées 
+
+Atteignez la colonie d'étrangers.
+
+5
+
+primogem
+
+Hiiragi Sanjuuro 
+
+Vous avez escorté les marchandises pour quitter Ritou.
+
+5
+
+primogem
+
+Les aspirations de tous 
+
+Entrez en contact avec la statue de la divinité omniprésente, symbole de l'« éternité ».
+
+5
+
+primogem
+
+La princesse derrière le rideau 
+
+Faites officiellement la connaissance de la fille du Clan Kamisato.
+
+5
+
+primogem
+
+Omamori, justice et unicité 
+
+Exaucez « trois petits souhaits ».
+
+5
+
+primogem
+
+La grande évasion 
+
+Sauvez Masakatsu.
+
+5
+
+primogem
+
+Face à l'éclat de la foudre 
+
+Devenez la cible du décret de saisie.
+
+5
+
+primogem
+
+Vive la révolution ! 
+
+Rejoignez la Résistance.
+
+5
+
+primogem
+
+Divinité impitoyable et euthymie éternelle 
+
+Terminez « Divinité impitoyable et euthymie éternelle ».
+
+10
+
+primogem
+
+Quiétude, la sublimation de l'ombre 
+
+Terminez « Quiétude, la sublimation de l'ombre ».
+
+10
+
+primogem
+
+Espadon II 
+
+Obtenez la confiance de l'escouade de l'Espadon II.
+
+5
+
+primogem
+
+Un espoir de courte durée... 
+
+Trouvez qui se cache derrière la distribution des yeux maléfiques.
+
+5
+
+primogem
+
+Méga festival pyrotechnique 
+
+Allumez les feux d'artifice pour éloigner les gardes.
+
+5
+
+primogem
+
+Duel devant le trône 
+
+Remportez la victoire lors du duel devant le trône.
+
+5
+
+primogem
+
+Leurs espoirs... 
+
+Répondez à tous les souhaits de la Statue de la divinité omniprésente.
+
+5
+
+primogem
+
+Omniprésence sur les mortels 
+
+Terminez « Omniprésence sur les mortels ».
+
+10
+
+primogem
+
+Tout va pour le mieux ! 
+
+Aidez Wang Ping'an à rénover le temple de Pervases.
+
+5
+
+primogem
+
+Les aventures d'Anna   
+
+Aidez Anna à devenir une aventurière.
+
+5
+
+primogem
+
+Quête: Anna l'aventurière ! 
+
+Prélude d'un long périple   
+
+Un jeune homme est sur le point de se lancer dans un long voyage...
+
+5
+
+primogem
+
+Quête: Petit pirate, hissez ho ! 
+
+Du jade en plein ciel 
+
+Terminez la reconstruction de la Chambre de Jade.
+
+5
+
+primogem
+
+Mésaventure des profondeurs 
+
+Éliminez Beisht, la Vengeresse du vortex.
+
+5
+
+primogem
+
+Un rêve d'antan 
+
+Soyez témoin de la vérité de l'histoire du village.
+
+5
+
+primogem
+
+Retour de la grue dans le vent 
+
+Terminez « Retour de la grue dans le vent ».
+
+10
+
+primogem
+
+Un coup d'œil dans l'abîme... 
+
+Bien que vous soyez de retour avec Dain, l'Abîme vous regarde...
+
+5
+
+primogem
+
+La belle et le damné 
+
+Apprenez le secret derrière les Chevaliers des Serpents noirs et les Brutocollinus.
+
+5
+
+primogem
+
+Volonté de vie et abîme de douleur 
+
+Battez l'Apôtre de l'Abîme.
+
+5
+
+primogem
+
+Que la gloire vous accompagne 
+
+Terminez « Requiem des profondeurs résonnantes ».
+
+10
+
+primogem
+
+Sans retour 
+
+Traversez les obstacles et retrouvez Xiao dans « Sentier périlleux ».
+
+5
+
+primogem
+
+Couches d'effroi 
+
+Échappez-vous de l'espace mystérieux tout en bas du Gouffre.
+
+5
+
+primogem
+
+De cœur et d'âme 
+
+Terminez « Sentier périlleux ».
+
+10
+
+primogem
+
+Le son de l'Akasha 
+
+Écoutez la voix de la sagesse divine.
+
+5
+
+primogem
+
+La marchande et la porte de la connaissance 
+
+Rencontrez Dori et achetez des concentrés de connaissances.
+
+5
+
+primogem
+
+Tel Popeye 
+
+Utilisez le concentré de connaissances pour augmenter votre puissance de combat.
+
+5
+
+primogem
+
+À travers la brume et les forêts 
+
+Terminez « À travers la brume et les forêts ».
+
+10
+
+primogem
+
+Le goût du déjà-vu 
+
+Choisissez vous-même la boîte à bonbons saveur pomme crépusculaire.
+
+5
+
+primogem
+
+Même Paimon n'en veut pas ! 
+
+Mangez un charbon d'ajilenakh visiblement mauvais.
+
+5
+
+primogem
+
+Tout rêve doit finir 
+
+Réveillez-vous du samsara du Festival Sabzeruz.
+
+5
+
+primogem
+
+L'aube accordant mille roses 
+
+Terminez « L'aube accordant mille roses ».
+
+10
+
+primogem
+
+L'âme transposée 
+
+Partagez vos sens avec Nahida grâce à la possession en utilisant l'Akasha.
+
+5
+
+primogem
+
+L'imaginarium du Dottore 
+
+#Soyez {M#considéré comme le sauveur}{F#considérée comme la sauveuse} du monde par les citoyens contrôlés par Dottore.
+
+5
+
+primogem
+
+Dieu aussi regarde... 
+
+Soyez témoin du passé de Scaramuccia en vous connectant à la conscience divine.
+
+5
+
+primogem
+
+Rêves, futilité et tromperie 
+
+Terminez « Rêves, futilité et tromperie ».
+
+10
+
+primogem
+
+Nara Croft ? 
+
+Trouvez l'ancien temple sous les sables mouvants.
+
+5
+
+primogem
+
+Quand le soleil noir passe 
+
+Comprenez le passé au travers des derniers mots du prêtre du roi Deshret.
+
+5
+
+primogem
+
+Le roi Deshret et les trois mages 
+
+Terminez « Le roi Deshret et les trois mages ».
+
+10
+
+primogem
+
+Eremitis ne credite 
+
+Aidez Cyno à amener Rahman et son équipage à Sumeru.
+
+5
+
+primogem
+
+Vers la victoire et au-delà 
+
+Terminez les préparatifs nécessaires à la mise en œuvre de votre plan.
+
+5
+
+primogem
+
+Le jour le plus long 
+
+Sauvez une divinité lors du Jour de Jnagarbha.
+
+5
+
+primogem
+
+... Non éligible ! 
+
+Empêchez la naissance d'une fausse divinité.
+
+5
+
+primogem
+
+Pulsation akashienne et montée de la flamme de kalpa 
+
+Terminez « Pulsation akashienne et montée de la flamme de kalpa ».
+
+10
+
+primogem
+
+Le mystère de Tatarasuna 
+
+Enquêtez sur les souvenirs du passé de Tatarasuna dans l'Irminsul.
+
+5
+
+primogem
+
+Échos du passé 
+
+Découvrez les conséquences de l'entrée de Scaramuccia dans l'Irminsul.
+
+5
+
+primogem
+
+Parinama : renard, chat, oiseau et monstre 
+
+Résolvez l'énigme cachée de Nahida et découvrez le passé de Scaramuccia.
+
+5
+
+primogem
+
+Moi, moi-même, mais pas moi 
+
+Vainquez le Seigneur éternel de la sagesse arcanique dans les souvenirs.
+
+5
+
+primogem
+
+Genèse inversée 
+
+Terminez « Genèse inversée ».
+
+10
+
+primogem
+
+Une nuit à travers les étoiles 
+
+Rappelez-vous des souvenirs de votre lignée.
+
+5
+
+primogem
+
+Expérience de mort imminente 
+
+Créez le médicament qui apportera de l'espoir.
+
+5
+
+primogem
+
+L'envers du destin 
+
+Soyez témoin du miracle accordé par le transgresseur.
+
+5
+
+primogem
+
+Caribert 
+
+Terminez « Caribert ».
+
+10
+
+primogem
+
+Comme l'eau retournant à la mer 
+
+Découvrez la prophétie qui circule à Fontaine.
+
+5
+
+primogem
+
+Détective en action ! 
+
+#Enquêtez sur la vérité de l'incident en tant qu'{M#avocat}{F#avocate} de Lyney.
+
+5
+
+primogem
+
+Un rebondissement presque magique... 
+
+L'Oratrice mécanique d'analyse cardinale a prononcé un verdict de non-culpabilité.
+
+5
+
+primogem
+
+Prélude de blancheur et de noirceur 
+
+Terminez « Prélude de blancheur et de noirceur ».
+
+10
+
+primogem
+
+Lennék én folyóvíz 
+
+Entendez l'appel de l'océanide et connectez-vous avec sa conscience.
+
+5
+
+primogem
+
+Il était une fois au Fleuve cendré 
+
+Découvrez l'histoire du père de Navia au bastion de la Spina di Rosula.
+
+5
+
+primogem
+
+Quand la tragédie se répète 
+
+Révélez la vérité derrière l'affaire des disparitions en série.
+
+5
+
+primogem
+
+Alors que la bruine tombe sans raison 
+
+Terminez « Alors que la bruine tombe sans raison ».
+
+10
+
+primogem
+
+Une visite dans le « Raft » 
+
+Après avoir terminé toutes les procédures, rendez-vous à la Forteresse de Méropide.
+
+5
+
+primogem
+
+Une vision dans un rêve 
+
+Voyez ce que Tartaglia a vécu de son point de vue dans un rêve.
+
+5
+
+primogem
+
+Règles de la Société dans le coin 
+
+Enquêtez sur deux des règles secrètes de la prison.
+
+5
+
+primogem
+
+Vers les étoiles brillant dans les profondeurs 
+
+Terminez « Vers les étoiles brillant dans les profondeurs ».
+
+10
+
+primogem
+
+Le déluge 
+
+Fréminet se souvient de ce qui lui est arrivé...
+
+5
+
+primogem
+
+Méropide et le secret sous l'eau bleue 
+
+Découvrez l'histoire et les secrets de la Forteresse de Méropide.
+
+5
+
+primogem
+
+Hors des éons 
+
+Découvrez la véritable identité de Neuvillette.
+
+5
+
+primogem
+
+Imminence de l'apocalypse 
+
+Terminez « Imminence de l'apocalypse ».
+
+10
+
+primogem
+
+Et les mouettes ont pleuré 
+
+Soyez témoin de la catastrophe du Village de Poisson.
+
+5
+
+primogem
+
+« Love is Destructive » 
+
+Navia a survécu à sa rencontre avec l'eau de la mer primordiale.
+
+5
+
+primogem
+
+La scène du destin 
+
+Tendez un piège avec vos compagnons qui vous permettra de « juger une divinité ».
+
+5
+
+primogem
+
+Pour un meilleur demain 
+
+Les gens reconstruisent leur foyer.
+
+5
+
+primogem
+
+Mascarade des coupables 
+
+Terminez « Mascarade des coupables ».
+
+10
+
+primogem
+
+La ville où il ne me manque que moi 
+
+Enquêtez sur « quelqu'un qui n'existe que dans les souvenirs des gens ».
+
+5
+
+primogem
+
+Le moment tant attendu 
+
+#Avant que vous ne vous en rendiez compte, Dainsleif croise le fer avec votre {M#sœur}{F#frère}...
+
+5
+
+primogem
+
+Preuve d'existence 
+
+Entrez dans le domaine de conscience de Caribert.
+
+5
+
+primogem
+
+Histoire du soir 
+
+Terminez « Histoire du soir ».
