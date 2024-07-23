@@ -1,0 +1,68 @@
+2024-07-23 17:29:26,488 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:29:26,990 - https://api.imgur.com:443 "POST /3/album HTTP/1.1" 200 None
+2024-07-23 17:29:26,991 - Album créé avec succès: https://cubari.moe/read/imgur/vTBwwir/1/1/
+2024-07-23 17:29:26,991 - Upload de l'image : 024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:29:26,991 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:29:26,997 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg (Tentative #1)
+2024-07-23 17:29:27,061 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:29:35,479 - https://api.imgur.com:443 "POST /3/image HTTP/1.1" 200 347
+2024-07-23 17:29:35,480 - Image téléchargée avec succès: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:29:35,480 - Album complet disponible à l'adresse : https://cubari.moe/read/imgur/vTBwwir/1/1/
+2024-07-23 17:31:27,058 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:31:27,572 - https://api.imgur.com:443 "POST /3/album HTTP/1.1" 200 None
+2024-07-23 17:31:27,573 - Album créé avec succès: https://cubari.moe/read/imgur/CqFFW8U/1/1/
+2024-07-23 17:31:27,573 - Upload de l'image : 024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:31:27,573 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:31:27,580 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg (Tentative #1)
+2024-07-23 17:31:27,651 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:31:35,965 - https://api.imgur.com:443 "POST /3/image HTTP/1.1" 200 350
+2024-07-23 17:31:35,965 - Image téléchargée avec succès: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:31:35,966 - Album complet disponible à l'adresse : https://cubari.moe/read/imgur/CqFFW8U/1/1/
+2024-07-23 17:31:58,458 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:31:58,962 - https://api.imgur.com:443 "POST /3/album HTTP/1.1" 200 None
+2024-07-23 17:31:58,962 - Album créé avec succès: https://cubari.moe/read/imgur/2wypeNQ/1/1/
+2024-07-23 17:31:58,962 - Upload de l'image : 024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg
+2024-07-23 17:31:58,962 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg
+2024-07-23 17:31:58,969 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg (Tentative #1)
+2024-07-23 17:31:59,037 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:31:59,617 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:32:00,108 - https://api.imgur.com:443 "POST /3/album HTTP/1.1" 200 None
+2024-07-23 17:32:00,109 - Album créé avec succès: https://cubari.moe/read/imgur/GgFxubo/1/1/
+2024-07-23 17:32:00,110 - Upload de l'image : 024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg
+2024-07-23 17:32:00,110 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg
+2024-07-23 17:32:00,116 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg (Tentative #1)
+2024-07-23 17:32:00,192 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:32:07,475 - https://api.imgur.com:443 "POST /3/image HTTP/1.1" 200 346
+2024-07-23 17:32:07,476 - Image téléchargée avec succès: 10k\024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg
+2024-07-23 17:32:07,476 - Upload de l'image : 024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:32:07,477 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:32:07,482 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg (Tentative #1)
+2024-07-23 17:32:07,549 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:32:09,160 - https://api.imgur.com:443 "POST /3/image HTTP/1.1" 200 347
+2024-07-23 17:32:09,160 - Image téléchargée avec succès: 10k\024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg
+2024-07-23 17:32:09,161 - Upload de l'image : 024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:32:09,161 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:32:09,168 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg (Tentative #1)
+2024-07-23 17:32:09,245 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:32:09,426 - https://api.imgur.com:443 "POST /3/image HTTP/1.1" 200 342
+2024-07-23 17:32:09,427 - Image téléchargée avec succès: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:32:09,427 - Album complet disponible à l'adresse : https://cubari.moe/read/imgur/2wypeNQ/1/1/
+2024-07-23 17:32:11,409 - https://api.imgur.com:443 "POST /3/image HTTP/1.1" 200 348
+2024-07-23 17:32:11,410 - Image téléchargée avec succès: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:32:11,411 - Album complet disponible à l'adresse : https://cubari.moe/read/imgur/GgFxubo/1/1/
+2024-07-23 17:33:40,681 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:33:41,138 - https://api.imgur.com:443 "POST /3/album HTTP/1.1" 200 None
+2024-07-23 17:33:41,139 - Album créé avec succès: https://cubari.moe/read/imgur/Xfzoac0/1/1/
+2024-07-23 17:33:41,139 - Upload de l'image : 024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg
+2024-07-23 17:33:41,140 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg
+2024-07-23 17:33:41,146 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg (Tentative #1)
+2024-07-23 17:33:41,223 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:33:49,476 - https://api.imgur.com:443 "POST /3/image HTTP/1.1" 200 347
+2024-07-23 17:33:49,477 - Image téléchargée avec succès: 10k\024_024_024_024_024_024_024_image_concatenated_part23 copy.jpg
+2024-07-23 17:33:49,478 - Upload de l'image : 024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:33:49,478 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:33:49,484 - Tentative d'upload de l'image: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg (Tentative #1)
+2024-07-23 17:33:49,556 - Starting new HTTPS connection (1): api.imgur.com:443
+2024-07-23 17:33:51,528 - https://api.imgur.com:443 "POST /3/image HTTP/1.1" 200 349
+2024-07-23 17:33:51,529 - Image téléchargée avec succès: 10k\024_024_024_024_024_024_024_image_concatenated_part23.jpg
+2024-07-23 17:33:51,530 - Album complet disponible à l'adresse : https://cubari.moe/read/imgur/Xfzoac0/1/1/

@@ -1,19 +1,25 @@
 from flask import Flask, jsonify
+from flask_cors import CORS
 import subprocess
-from waitress import serve
 
 app = Flask(__name__)
+CORS(app)  # Permet toutes les origines
 
 @app.route('/run-script', methods=['POST'])
 def run_script():
     try:
-        result = subprocess.run(['python', './teste.py'], capture_output=True, text=True, check=True)
-        return jsonify({'output': result.stdout})
+        result = subprocess.run(['python3', './imgur.py'], capture_output=True, text=True, check=True)
+        return jsonify({
+            'stdout': result.stdout,
+            'stderr': result.stderr
+        })
     except subprocess.CalledProcessError as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({
+            'error': str(e),
+            'stderr': e.stderr,
+            'stdout': e.stdout
+        }), 500
 
 if __name__ == '__main__':
-    print("Starting the server with waitress...")
-    app.run(host='0.0.0.0', port=5000, debug=True)
-
-    print("Server has started")  # Ce message ne sera probablement pas atteint
+    # Le serveur WSGI prendra en charge l'exécution en production
+    app.run()
