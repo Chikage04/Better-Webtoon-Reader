@@ -13,5 +13,7 @@ def run_script():
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
-    # Remplacez app.run() par serve()
-    serve(app, host='0.0.0.0', port=5000)
+    print("Starting the server with waitress...")
+    app.run(host='0.0.0.0', port=5000, debug=True)
+
+    print("Server has started")  # Ce message ne sera probablement pas atteint
