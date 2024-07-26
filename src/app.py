@@ -8,7 +8,7 @@ CORS(app)  # Permet toutes les origines
 @app.route('/run-script', methods=['POST'])
 def run_script():
     try:
-        result = subprocess.run(['python3', './imgur.py'], capture_output=True, text=True, check=True)
+        result = subprocess.run(["python3", "webtoon_downloader.py", "https://www.webtoons.com/fr/fantasy/tower-of-god/list?title_no=1832", "--latest"], capture_output=True, text=True, check=True)
         return jsonify({
             'stdout': result.stdout,
             'stderr': result.stderr
