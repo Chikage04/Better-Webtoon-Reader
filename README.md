@@ -1,4 +1,5 @@
-#Ensemble de script python en pagaille pour :
+# Ensemble de script python en pagaille pour :
+
 1: Télécharger des webtoon
 2: Upscale
 3: Les upload sur imgur
