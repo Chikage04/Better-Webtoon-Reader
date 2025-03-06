@@ -9,4 +9,4 @@
 4: Mettre le liens en parametre d'un autre site qui affiche l'album imgur comme il faut pour lire
 
 # Les fichiers importants sont :
-les fichier cité de src/test.py ainsi que imgur.py
+les fichier cité de src/teste.py ainsi que imgur.py
